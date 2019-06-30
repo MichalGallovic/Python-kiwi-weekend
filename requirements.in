@@ -1,0 +1,8 @@
+requests
+ipdb
+python-slugify
+black
+redis
+flask
+Flask-WTF
+psycopg2-binary

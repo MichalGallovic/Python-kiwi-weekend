@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bus/Train Connections</title>
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="flex justify-center mt-4">
+        <form action="/search" method="POST">
+            <div class="inline-block">
+                {{ form.source.label(class_="block uppercase text-xs text-gray-600") }} {{ form.source(size=20, class_="bg-gray-300 rounded rounded-lg focus:outline-none text-gray-800 px-4 py-1") }}
+            </div>
+            <div class="inline-block">
+                {{ form.destination.label(class_="block uppercase text-xs text-gray-600") }} {{ form.destination(size=20, class_="bg-gray-300 rounded rounded-lg focus:outline-none text-gray-800 px-4 py-1") }}
+            </div>
+            <div class="inline-block">
+                {{ form.departure_date.label(class_="block uppercase text-xs text-gray-600") }} {{ form.departure_date(size=20, class_="bg-gray-300 rounded rounded-lg focus:outline-none text-gray-800 px-4 py-1") }}
+            </div>
+            <div class="inline-block">
+                {{ form.arrival_date.label(class_="block uppercase text-xs text-gray-600") }} {{ form.arrival_date(class_="bg-gray-300 rounded rounded-lg focus:outline-none text-gray-800 px-4 py-1") }}
+            </div>
+            <button class="bg-gray-600 text-gray-100 rounded rounded-lg px-4 py-1 hover:bg-gray-800 focus:outline-none" type="submit">Search</button>
+        </form>
+    </div>
+    <ul class="flex flex-col mx-auto items-center mt-4">
+        {% for connection in connections %}
+            <li class="flex bg-gray-300 mt-2 p-4 w-1/2 rounded rounded-md hover:shadow cursor-pointer">
+                <div class="flex flex-col">
+                    <div>
+                        <span class="text-xs font-bold ml-auto">{{ connection.departure_datetime|datetime('%m.%d.') }}</span>
+                        <span class="text-xs font-bold">{{ connection.departure_datetime|datetime('%H:%M') }}</span>
+                        <span class="text-xs font-bold"> - {{ connection.arrival_datetime|datetime('%H:%M') }}</span>
+                    </div>
+                    <span class="text-sm">{{ connection.source }}</span>
+                    <span class="text-sm">{{ connection.destination }}</span>
+                </div>
+                <div class="flex flex-col justify-end ml-auto">
+                    <span class="text-md font-bold">{{ connection.price }} &euro;</span>
+                </div>
+            </li>
+        {% endfor %}
+    </ul>
+    <script>
+        $(function(){
+            $("#source").autocomplete({source: "/api/locations-search", minLength: 2});
+            $("#destination").autocomplete({source: "/api/locations-search", minLength: 2});
+            $("#departure_date").datepicker({dateFormat: "yy-mm-dd"});
+            $("#arrival_date").datepicker({dateFormat: "yy-mm-dd"});
+        });
+    </script>
+</body>
+</html>

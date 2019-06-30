@@ -1,0 +1,3482 @@
+{
+    "partners": [{
+        "country": "Bielorusko",
+        "code": "BY",
+        "cities": [{
+            "partnerCity": true,
+            "name": "Minsk (bus)",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["centr.nádr.", "Minsk (bus)"],
+                "latitude": 21.3088889,
+                "name": "centr.nádr.",
+                "id": 263590001,
+                "fullname": "Minsk (bus) - centr.nádr.",
+                "longitude": 157.8261111,
+                "partnerStation": true
+            }],
+            "id": 263584002,
+            "icons": false
+        }]
+    }, {
+        "country": "Bulharsko",
+        "code": "BG",
+        "cities": [{
+            "partnerCity": true,
+            "name": "Burgas (bus)",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["AN", "Burgas (bus)"],
+                "latitude": 21.3088889,
+                "name": "AN",
+                "id": 271533000,
+                "fullname": "Burgas (bus) - AN",
+                "longitude": 157.8261111,
+                "partnerStation": true
+            }],
+            "id": 271526001,
+            "icons": false
+        }, {
+            "partnerCity": true,
+            "name": "Sofia (bus)",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["AN", "Sofia (bus)", "Sofie (bus)"],
+                "latitude": 21.3088889,
+                "name": "AN",
+                "id": 271533001,
+                "fullname": "Sofia (bus) - AN",
+                "longitude": 157.8261111,
+                "partnerStation": true
+            }],
+            "id": 271526002,
+            "icons": false
+        }, {
+            "partnerCity": true,
+            "name": "Šumen (bus)",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["AN", "Šumen (bus)"],
+                "latitude": 21.3088889,
+                "name": "AN",
+                "id": 271533007,
+                "fullname": "Šumen (bus) - AN",
+                "longitude": 157.8261111,
+                "partnerStation": true
+            }],
+            "id": 271526008,
+            "icons": false
+        }, {
+            "partnerCity": true,
+            "name": "Varna (bus)",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["AN", "Varna (bus)"],
+                "latitude": 21.3088889,
+                "name": "AN",
+                "id": 271533002,
+                "fullname": "Varna (bus) - AN",
+                "longitude": 157.8261111,
+                "partnerStation": true
+            }],
+            "id": 271526003,
+            "icons": false
+        }]
+    }, {
+        "country": "Grécko",
+        "code": "GR",
+        "cities": [{
+            "partnerCity": true,
+            "name": "Atheny (bus)",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["AN", "Atheny (bus)", "Atény (bus)"],
+                "latitude": 21.3088889,
+                "name": "AN",
+                "id": 272011033,
+                "fullname": "Atheny (bus) - AN",
+                "longitude": 157.8261111,
+                "partnerStation": true
+            }],
+            "id": 272755015,
+            "icons": false
+        }, {
+            "partnerCity": true,
+            "name": "Larissa (bus)",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["Nestou str.", "Larissa (bus)"],
+                "latitude": 21.3088889,
+                "name": "Nestou str.",
+                "id": 272011034,
+                "fullname": "Larissa (bus) - Nestou str.",
+                "longitude": 157.8261111,
+                "partnerStation": true
+            }],
+            "id": 272755016,
+            "icons": false
+        }]
+    }, {
+        "country": "Litva",
+        "code": "LT",
+        "cities": [{
+            "partnerCity": true,
+            "name": "Marijampole (bus)",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["Dw.Autobusowy, Stoties g.2B", "Marijampole (bus)"],
+                "latitude": 21.3088889,
+                "name": "Dw.Autobusowy, Stoties g.2B",
+                "id": 271533014,
+                "fullname": "Marijampole (bus) - Dw.Autobusowy, Stoties g.2B",
+                "longitude": 157.8261111,
+                "partnerStation": true
+            }],
+            "id": 271526015,
+            "icons": false
+        }]
+    }, {
+        "country": "Moldavsko",
+        "code": "MD",
+        "cities": [{
+            "partnerCity": true,
+            "name": "Balti (bus)",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["aut.nádr.", "Balti (bus)"],
+                "latitude": 21.3088889,
+                "name": "aut.nádr.",
+                "id": 448171000,
+                "fullname": "Balti (bus) - aut.nádr.",
+                "longitude": 157.8261111,
+                "partnerStation": true
+            }],
+            "id": 448165000,
+            "icons": false
+        }, {
+            "partnerCity": true,
+            "name": "Chisinau / Kišiněv (bus)",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["aut.nádr.", "Chisinau / Kišiněv (bus)"],
+                "latitude": 21.3088889,
+                "name": "aut.nádr.",
+                "id": 272011020,
+                "fullname": "Chisinau / Kišiněv (bus) - aut.nádr.",
+                "longitude": 157.8261111,
+                "partnerStation": true
+            }],
+            "id": 272755001,
+            "icons": false
+        }]
+    }, {
+        "country": "Poľsko",
+        "code": "PL",
+        "cities": [{
+            "partnerCity": true,
+            "name": "Bialystok (bus)",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["Dw.Autobusowy, ul. Monte Casino 8", "Bialystok (bus)"],
+                "latitude": 21.3088889,
+                "name": "Dw.Autobusowy, ul. Monte Casino 8",
+                "id": 272011040,
+                "fullname": "Bialystok (bus) - Dw.Autobusowy, ul. Monte Casino 8",
+                "longitude": 157.8261111,
+                "partnerStation": true
+            }],
+            "id": 272755022,
+            "icons": false
+        }]
+    }, {
+        "country": "Rumunsko",
+        "code": "RO",
+        "cities": [{
+            "partnerCity": true,
+            "name": "Bucuresti (bus)",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["autogara", "Bucuresti (bus)", "Bukurešť (bus)"],
+                "latitude": 21.3088889,
+                "name": "autogara",
+                "id": 272011026,
+                "fullname": "Bucuresti (bus) - autogara",
+                "longitude": 157.8261111,
+                "partnerStation": true
+            }],
+            "id": 272755007,
+            "icons": false
+        }, {
+            "partnerCity": true,
+            "name": "Deva (bus)",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["gara", "Deva (bus)"],
+                "latitude": 21.3088889,
+                "name": "gara",
+                "id": 272011027,
+                "fullname": "Deva (bus) - gara",
+                "longitude": 157.8261111,
+                "partnerStation": true
+            }],
+            "id": 272755008,
+            "icons": false
+        }, {
+            "partnerCity": true,
+            "name": "Sibiu (bus)",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["autogara", "Sibiu (bus)"],
+                "latitude": 21.3088889,
+                "name": "autogara",
+                "id": 272011032,
+                "fullname": "Sibiu (bus) - autogara",
+                "longitude": 157.8261111,
+                "partnerStation": true
+            }],
+            "id": 272755014,
+            "icons": false
+        }]
+    }, {
+        "country": "Ukrajina",
+        "code": "UA",
+        "cities": [{
+            "partnerCity": true,
+            "name": "Cherson (bus)",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["AS", "Cherson (bus)"],
+                "latitude": 21.3088889,
+                "name": "AS",
+                "id": 271533020,
+                "fullname": "Cherson (bus) - AS",
+                "longitude": 157.8261111,
+                "partnerStation": true
+            }],
+            "id": 271526021,
+            "icons": false
+        }, {
+            "partnerCity": true,
+            "name": "Chmelnickij (bus)",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["AS", "Chmelnickij (bus)"],
+                "latitude": 21.3088889,
+                "name": "AS",
+                "id": 271533021,
+                "fullname": "Chmelnickij (bus) - AS",
+                "longitude": 157.8261111,
+                "partnerStation": true
+            }],
+            "id": 271526022,
+            "icons": false
+        }, {
+            "partnerCity": true,
+            "name": "Chust (bus)",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["AS", "Chust (bus)"],
+                "latitude": 21.3088889,
+                "name": "AS",
+                "id": 271533022,
+                "fullname": "Chust (bus) - AS",
+                "longitude": 157.8261111,
+                "partnerStation": true
+            }],
+            "id": 271526023,
+            "icons": false
+        }, {
+            "partnerCity": true,
+            "name": "Černivci / Černovcy (bus)",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["AS", "Černivci / Černovcy (bus)"],
+                "latitude": 21.3088889,
+                "name": "AS",
+                "id": 271533017,
+                "fullname": "Černivci / Černovcy (bus) - AS",
+                "longitude": 157.8261111,
+                "partnerStation": true
+            }],
+            "id": 271526018,
+            "icons": false
+        }, {
+            "partnerCity": true,
+            "name": "Dolina (bus)",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["AS", "Dolina (bus)"],
+                "latitude": 21.3088889,
+                "name": "AS",
+                "id": 271533018,
+                "fullname": "Dolina (bus) - AS",
+                "longitude": 157.8261111,
+                "partnerStation": true
+            }],
+            "id": 271526019,
+            "icons": false
+        }, {
+            "partnerCity": true,
+            "name": "Drogobič / Drohobyč (bus)",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["AS", "Drogobič / Drohobyč (bus)"],
+                "latitude": 21.3088889,
+                "name": "AS",
+                "id": 271533019,
+                "fullname": "Drogobič / Drohobyč (bus) - AS",
+                "longitude": 157.8261111,
+                "partnerStation": true
+            }],
+            "id": 271526020,
+            "icons": false
+        }, {
+            "partnerCity": true,
+            "name": "Iršava (bus)",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["AS", "Iršava (bus)"],
+                "latitude": 21.3088889,
+                "name": "AS",
+                "id": 271533023,
+                "fullname": "Iršava (bus) - AS",
+                "longitude": 157.8261111,
+                "partnerStation": true
+            }],
+            "id": 271526024,
+            "icons": false
+        }, {
+            "partnerCity": true,
+            "name": "Ivano Frankovsk (bus)",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["AS", "Ivano Frankovsk (bus)"],
+                "latitude": 21.3088889,
+                "name": "AS",
+                "id": 271533024,
+                "fullname": "Ivano Frankovsk (bus) - AS",
+                "longitude": 157.8261111,
+                "partnerStation": true
+            }],
+            "id": 271526025,
+            "icons": false
+        }, {
+            "partnerCity": true,
+            "name": "Kaluš (bus)",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["AS", "Kaluš (bus)"],
+                "latitude": 21.3088889,
+                "name": "AS",
+                "id": 271533025,
+                "fullname": "Kaluš (bus) - AS",
+                "longitude": 157.8261111,
+                "partnerStation": true
+            }],
+            "id": 271526026,
+            "icons": false
+        }, {
+            "partnerCity": true,
+            "name": "Kiev / Kyjev (bus)",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["AS", "Kiev / Kyjev (bus)"],
+                "latitude": 21.3088889,
+                "name": "AS",
+                "id": 272011001,
+                "fullname": "Kiev / Kyjev (bus) - AS",
+                "longitude": 157.8261111,
+                "partnerStation": true
+            }],
+            "id": 271526028,
+            "icons": false
+        }, {
+            "partnerCity": true,
+            "name": "Kolomyja (bus)",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["AS", "Kolomyja (bus)"],
+                "latitude": 21.3088889,
+                "name": "AS",
+                "id": 272011000,
+                "fullname": "Kolomyja (bus) - AS",
+                "longitude": 157.8261111,
+                "partnerStation": true
+            }],
+            "id": 271526027,
+            "icons": false
+        }, {
+            "partnerCity": true,
+            "name": "Lvov (bus)",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["AS", "Lvov (bus)"],
+                "latitude": 21.3088889,
+                "name": "AS",
+                "id": 272011003,
+                "fullname": "Lvov (bus) - AS",
+                "longitude": 157.8261111,
+                "partnerStation": true
+            }],
+            "id": 271526030,
+            "icons": false
+        }, {
+            "partnerCity": true,
+            "name": "Oděsa (bus)",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["AS", "Oděsa (bus)"],
+                "latitude": 21.3088889,
+                "name": "AS",
+                "id": 272011006,
+                "fullname": "Oděsa (bus) - AS",
+                "longitude": 157.8261111,
+                "partnerStation": true
+            }],
+            "id": 271526033,
+            "icons": false
+        }, {
+            "partnerCity": true,
+            "name": "Rachiv (bus)",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["AS", "Rachiv (bus)"],
+                "latitude": 21.3088889,
+                "name": "AS",
+                "id": 272011007,
+                "fullname": "Rachiv (bus) - AS",
+                "longitude": 157.8261111,
+                "partnerStation": true
+            }],
+            "id": 271526034,
+            "icons": false
+        }, {
+            "partnerCity": true,
+            "name": "Rivne (bus)",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["AS", "Rivne (bus)"],
+                "latitude": 21.3088889,
+                "name": "AS",
+                "id": 272011008,
+                "fullname": "Rivne (bus) - AS",
+                "longitude": 157.8261111,
+                "partnerStation": true
+            }],
+            "id": 271526035,
+            "icons": false
+        }, {
+            "partnerCity": true,
+            "name": "Stryj (bus)",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["AS", "Stryj (bus)"],
+                "latitude": 21.3088889,
+                "name": "AS",
+                "id": 272011010,
+                "fullname": "Stryj (bus) - AS",
+                "longitude": 157.8261111,
+                "partnerStation": true
+            }],
+            "id": 271526037,
+            "icons": false
+        }, {
+            "partnerCity": true,
+            "name": "Ternopil (bus)",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["AS", "Ternopil (bus)"],
+                "latitude": 21.3088889,
+                "name": "AS",
+                "id": 272011011,
+                "fullname": "Ternopil (bus) - AS",
+                "longitude": 157.8261111,
+                "partnerStation": true
+            }],
+            "id": 271526038,
+            "icons": false
+        }, {
+            "partnerCity": true,
+            "name": "Tjačiv (bus)",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["AS", "Tjačiv (bus)"],
+                "latitude": 21.3088889,
+                "name": "AS",
+                "id": 272011012,
+                "fullname": "Tjačiv (bus) - AS",
+                "longitude": 157.8261111,
+                "partnerStation": true
+            }],
+            "id": 271526039,
+            "icons": false
+        }, {
+            "partnerCity": true,
+            "name": "Uman (bus)",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["AS", "Uman (bus)"],
+                "latitude": 21.3088889,
+                "name": "AS",
+                "id": 272011013,
+                "fullname": "Uman (bus) - AS",
+                "longitude": 157.8261111,
+                "partnerStation": true
+            }],
+            "id": 271526040,
+            "icons": false
+        }, {
+            "partnerCity": true,
+            "name": "Vinnica (bus)",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["AS", "Vinnica (bus)"],
+                "latitude": 21.3088889,
+                "name": "AS",
+                "id": 272011015,
+                "fullname": "Vinnica (bus) - AS",
+                "longitude": 157.8261111,
+                "partnerStation": true
+            }],
+            "id": 271526042,
+            "icons": false
+        }, {
+            "partnerCity": true,
+            "name": "Vinogradovo (bus)",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["AS", "Vinogradovo (bus)"],
+                "latitude": 21.3088889,
+                "name": "AS",
+                "id": 272011016,
+                "fullname": "Vinogradovo (bus) - AS",
+                "longitude": 157.8261111,
+                "partnerStation": true
+            }],
+            "id": 271526043,
+            "icons": false
+        }, {
+            "partnerCity": true,
+            "name": "Zoločiv (bus)",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["AS", "Zoločiv (bus)"],
+                "latitude": 21.3088889,
+                "name": "AS",
+                "id": 272011017,
+                "fullname": "Zoločiv (bus) - AS",
+                "longitude": 157.8261111,
+                "partnerStation": true
+            }],
+            "id": 271526044,
+            "icons": false
+        }, {
+            "partnerCity": true,
+            "name": "Žitomir (bus)",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["AS", "Žitomir (bus)"],
+                "latitude": 21.3088889,
+                "name": "AS",
+                "id": 272011018,
+                "fullname": "Žitomir (bus) - AS",
+                "longitude": 157.8261111,
+                "partnerStation": true
+            }],
+            "id": 271526045,
+            "icons": false
+        }]
+    }],
+    "destinations": [{
+        "country": "Anglicko",
+        "code": "UK",
+        "cities": [{
+            "partnerCity": false,
+            "name": "Londýn",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["Londýn", "Victoria Green Line Station", "London", "伦敦", "Londres", "Лондон"],
+                "latitude": 51.493019104003906,
+                "name": "Victoria Green Line Station",
+                "id": 10204051,
+                "fullname": "Londýn - Victoria Green Line Station",
+                "longitude": -0.1459658145904541,
+                "partnerStation": false
+            }],
+            "id": 10202049,
+            "icons": false
+        }]
+    }, {
+        "country": "Belgicko",
+        "code": "BE",
+        "cities": [{
+            "partnerCity": false,
+            "name": "Brugge",
+            "stations": [{
+                "stationImportants": 1,
+                "aliases": ["Bruggy", "Bruges", "Brugge", "Rijselstraat-Spoorwegstraat", "Brügge", "布鲁日", "Брюгге", "Brugia"],
+                "latitude": 51.195438385009766,
+                "name": "Rijselstraat-Spoorwegstraat",
+                "id": 4448709000,
+                "fullname": "Brugge - Rijselstraat-Spoorwegstraat",
+                "longitude": 3.2163541316986084,
+                "partnerStation": false
+            }],
+            "id": 4448705000,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Brussel",
+            "stations": [{
+                "stationImportants": 1,
+                "aliases": ["Brussel", "Bruxelles", "Gare du Midi", "Brüssel", "布鲁塞尔", "Брюссель", "Brussels", "Brusel", "Brüsszel"],
+                "latitude": 50.83493423461914,
+                "name": "Gare du Midi",
+                "id": 4201640001,
+                "fullname": "Brussel - Gare du Midi",
+                "longitude": 4.333028793334961,
+                "partnerStation": false
+            }],
+            "id": 10202044,
+            "icons": false
+        }]
+    }, {
+        "country": "Chorvátsko",
+        "code": "HR",
+        "cities": [{
+            "partnerCity": false,
+            "name": "Biograd",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["aut.kolodvor", "Biograd", "比奧格勒納莫魯", "Биоград", "Біоград"],
+                "latitude": 43.9373664855957,
+                "name": "aut.kolodvor",
+                "id": 3335059002,
+                "fullname": "Biograd - aut.kolodvor",
+                "longitude": 15.443536758422852,
+                "partnerStation": false
+            }],
+            "id": 3334999001,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Pakoštane",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["Pakoštane", "Пакостане", "Пакоштенє"],
+                "latitude": 43.914398193359375,
+                "name": "Pakoštane",
+                "id": 3335059004,
+                "fullname": "Pakoštane - Pakoštane",
+                "longitude": 15.509498596191406,
+                "partnerStation": false
+            }],
+            "id": 3334999002,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Primošten",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["aut.kolodvor", "Primošten", "Примоштен", "Прімоштен"],
+                "latitude": 43.58804702758789,
+                "name": "aut.kolodvor",
+                "id": 271533008,
+                "fullname": "Primošten - aut.kolodvor",
+                "longitude": 15.925067901611328,
+                "partnerStation": false
+            }],
+            "id": 271526009,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Split",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["aut.kolodvor", "Split", "斯普利特", "Сплит", "Спліт"],
+                "latitude": 43.50325012207031,
+                "name": "aut.kolodvor",
+                "id": 271533009,
+                "fullname": "Split - aut.kolodvor",
+                "longitude": 16.44322967529297,
+                "partnerStation": false
+            }],
+            "id": 271526010,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Sukošan",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["dr. Franje Tuďmana", "Sukošan", "Сукошан"],
+                "latitude": 44.047080993652344,
+                "name": "dr. Franje Tuďmana",
+                "id": 3335059003,
+                "fullname": "Sukošan - dr. Franje Tuďmana",
+                "longitude": 15.313682556152344,
+                "partnerStation": false
+            }],
+            "id": 3334999000,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Šibenik",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["aut.kolodvor", "Šibenik", "希贝尼克", "Шибеник"],
+                "latitude": 43.732269287109375,
+                "name": "aut.kolodvor",
+                "id": 271533011,
+                "fullname": "Šibenik - aut.kolodvor",
+                "longitude": 15.893058776855469,
+                "partnerStation": false
+            }],
+            "id": 271526012,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Trogir",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["aut.kolodvor", "Trogir", "特罗吉尔", "Трогир", "Трогір"],
+                "latitude": 43.51837158203125,
+                "name": "aut.kolodvor",
+                "id": 271533012,
+                "fullname": "Trogir - aut.kolodvor",
+                "longitude": 16.250940322875977,
+                "partnerStation": false
+            }],
+            "id": 271526013,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Vodice",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["aut.kolodvor", "Vodice", "沃迪采", "Водице", "Водіце"],
+                "latitude": 43.759220123291016,
+                "name": "aut.kolodvor",
+                "id": 3335059001,
+                "fullname": "Vodice - aut.kolodvor",
+                "longitude": 15.778459548950195,
+                "partnerStation": false
+            }],
+            "id": 3334999003,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Zadar",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["aut.kolodvor", "Zadar", "扎达尔", "Задар"],
+                "latitude": 44.10631561279297,
+                "name": "aut.kolodvor",
+                "id": 359693011,
+                "fullname": "Zadar - aut.kolodvor",
+                "longitude": 15.241300582885742,
+                "partnerStation": false
+            }],
+            "id": 307730007,
+            "icons": false
+        }]
+    }, {
+        "country": "Česká republika",
+        "code": "CZ",
+        "cities": [{
+            "partnerCity": false,
+            "name": "Adamov",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["nádr.", "Adamov", "阿达莫夫", "Адамов"],
+                "latitude": 49.29558563232422,
+                "name": "nádr.",
+                "id": 3741302000,
+                "fullname": "Adamov - nádr.",
+                "longitude": 16.663366317749023,
+                "partnerStation": false
+            }],
+            "id": 3741270004,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Blansko",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["nádr.", "Blansko", "布兰斯科", "Бланско"],
+                "latitude": 49.352081298828125,
+                "name": "nádr.",
+                "id": 3741302001,
+                "fullname": "Blansko - nádr.",
+                "longitude": 16.64805030822754,
+                "partnerStation": false
+            }],
+            "id": 3741270003,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Boskovice",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["nádr.", "Boskovice", "博斯科维采", "Босковице", "Босковіце"],
+                "latitude": 49.49160385131836,
+                "name": "nádr.",
+                "id": 4473276000,
+                "fullname": "Boskovice - nádr.",
+                "longitude": 16.652019500732422,
+                "partnerStation": false
+            }],
+            "id": 4473271000,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Brno",
+            "stations": [{
+                "stationImportants": 3,
+                "aliases": ["AN u hotelu Grand", "Brno", "Brünn", "布尔诺", "Брно"],
+                "latitude": 49.1933555603027,
+                "name": "AN u hotelu Grand",
+                "id": 10204002,
+                "fullname": "Brno - AN u hotelu Grand",
+                "longitude": 16.6142520904541,
+                "partnerStation": false
+            }, {
+                "stationImportants": 3,
+                "aliases": ["dolní nádraží", "Brno", "Brünn", "布尔诺", "Брно"],
+                "latitude": 49.18404769897461,
+                "name": "dolní nádraží",
+                "id": 3398241001,
+                "fullname": "Brno - dolní nádraží",
+                "longitude": 16.616313934326172,
+                "partnerStation": false
+            }, {
+                "stationImportants": 2,
+                "aliases": ["Brno Židenice", "Židenice", "Brno", "Brünn", "布尔诺", "Брно"],
+                "latitude": 49.20414733886719,
+                "name": "Židenice",
+                "id": 3398241000,
+                "fullname": "Brno - Židenice",
+                "longitude": 16.636619567871094,
+                "partnerStation": false
+            }, {
+                "stationImportants": 1,
+                "aliases": ["Brno hlavní nádraží", "Brno nádraží", "hl. nádraží", "Brno", "Brünn", "布尔诺", "Брно"],
+                "latitude": 49.190853118896484,
+                "name": "hl. nádraží",
+                "id": 3088864001,
+                "fullname": "Brno - hl. nádraží",
+                "longitude": 16.612524032592773,
+                "partnerStation": false
+            }, {
+                "stationImportants": 0,
+                "aliases": ["výlet", "ulice Rooseveltova - výlet", "Brno", "Brünn", "布尔诺", "Брно"],
+                "latitude": 49.19822692871094,
+                "name": "ulice Rooseveltova - výlet",
+                "id": 4713817000,
+                "fullname": "Brno - ulice Rooseveltova - výlet",
+                "longitude": 16.610004425048828,
+                "partnerStation": false
+            }],
+            "id": 10202002,
+            "icons": true
+        }, {
+            "partnerCity": false,
+            "name": "Břeclav",
+            "stations": [{
+                "stationImportants": 1,
+                "aliases": ["nádraží", "Břeclav", "布热茨拉夫", "Бржецлав", "Brzecław"],
+                "latitude": 48.753875732421875,
+                "name": "nádraží",
+                "id": 3088864003,
+                "fullname": "Břeclav - nádraží",
+                "longitude": 16.892559051513672,
+                "partnerStation": false
+            }],
+            "id": 165611000,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Bystřice (Třinec)",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["nádr.", "Bystřice (Třinec)", "Быстрице (Тршинец)", "Бистржіце (Tржінец)"],
+                "latitude": 49.63654327392578,
+                "name": "nádr.",
+                "id": 1313142002,
+                "fullname": "Bystřice (Třinec) - nádr.",
+                "longitude": 18.717449188232422,
+                "partnerStation": false
+            }],
+            "id": 1313136001,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Cheb",
+            "stations": [{
+                "stationImportants": 1,
+                "aliases": ["AN", "Cheb", "海布", "Хеб"],
+                "latitude": 50.07461166381836,
+                "name": "AN",
+                "id": 721181002,
+                "fullname": "Cheb - AN",
+                "longitude": 12.379693031311035,
+                "partnerStation": false
+            }],
+            "id": 721174001,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Chomutov",
+            "stations": [{
+                "stationImportants": 1,
+                "aliases": ["aut.nádr.", "Chomutov", "霍穆托夫", "Хомутов"],
+                "latitude": 50.46006774902344,
+                "name": "aut.nádr.",
+                "id": 1084372004,
+                "fullname": "Chomutov - aut.nádr.",
+                "longitude": 13.408842086791992,
+                "partnerStation": false
+            }],
+            "id": 1084369003,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Česká Třebová",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["nádr.", "Česká Třebová", "Чешская Тршебова", "Чеська Тршебова"],
+                "latitude": 49.89753723144531,
+                "name": "nádr.",
+                "id": 1313142000,
+                "fullname": "Česká Třebová - nádr.",
+                "longitude": 16.44721031188965,
+                "partnerStation": false
+            }],
+            "id": 1313136000,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "České Budějovice",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["AN", "České Budějovice", "捷克布杰约维采", "Чешские Будейовице", "Чеське Будейовіце"],
+                "latitude": 48.9724578857422,
+                "name": "AN",
+                "id": 17902020,
+                "fullname": "České Budějovice - AN",
+                "longitude": 14.4874801635742,
+                "partnerStation": false
+            }],
+            "id": 17904008,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Český Krumlov",
+            "stations": [{
+                "stationImportants": 1,
+                "aliases": ["AN", "Český Krumlov", "克鲁姆洛夫", "Чешский Крумлов", "Чеський Крумлов"],
+                "latitude": 48.8116188049316,
+                "name": "AN",
+                "id": 17902022,
+                "fullname": "Český Krumlov - AN",
+                "longitude": 14.3225240707397,
+                "partnerStation": false
+            }, {
+                "stationImportants": 0,
+                "aliases": ["Špičák", "Český Krumlov", "克鲁姆洛夫", "Чешский Крумлов", "Чеський Крумлов"],
+                "latitude": 48.81545639038086,
+                "name": "Špičák",
+                "id": 17902021,
+                "fullname": "Český Krumlov - Špičák",
+                "longitude": 14.315909385681152,
+                "partnerStation": false
+            }],
+            "id": 17904009,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Český Těšín",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["nádraží", "Český Těšín", "Чешский Тешин", "Чеський Тешин"],
+                "latitude": 49.7435493469238,
+                "name": "nádraží",
+                "id": 508812001,
+                "fullname": "Český Těšín - nádraží",
+                "longitude": 18.6231136322021,
+                "partnerStation": false
+            }],
+            "id": 508808000,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Frýdek-Místek",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["AN Frýdek", "Frýdek-Místek", "弗里代克 - 米斯泰克", "Фридек-Мистек", "Фрідек-Містек"],
+                "latitude": 49.67842102050781,
+                "name": "AN Frýdek",
+                "id": 10204068,
+                "fullname": "Frýdek-Místek - AN Frýdek",
+                "longitude": 18.351219177246094,
+                "partnerStation": false
+            }],
+            "id": 10202064,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Havířov",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["nádr.", "Havířov", "哈维若夫", "Гавиржов", "Гавіржов"],
+                "latitude": 49.791088104248,
+                "name": "nádr.",
+                "id": 372825010,
+                "fullname": "Havířov - nádr.",
+                "longitude": 18.4125499725342,
+                "partnerStation": false
+            }],
+            "id": 372842004,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Hranice na M.",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["nádr.", "Hranice na M.", "Границе на Мораве", "Граніце на Мораве"],
+                "latitude": 49.5657806396484,
+                "name": "nádr.",
+                "id": 372825006,
+                "fullname": "Hranice na M. - nádr.",
+                "longitude": 17.7422771453857,
+                "partnerStation": false
+            }],
+            "id": 372842003,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Humpolec",
+            "stations": [{
+                "stationImportants": 1,
+                "aliases": ["AN", "Humpolec", "洪波萊茨", "Гумполец", "Гумполець"],
+                "latitude": 49.53994369506836,
+                "name": "AN",
+                "id": 1462765000,
+                "fullname": "Humpolec - AN",
+                "longitude": 15.345568656921387,
+                "partnerStation": false
+            }],
+            "id": 1462763000,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Jihlava",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["Iglau", "AN", "Jihlava", "伊赫拉瓦", "Йиглава", "Їглава"],
+                "latitude": 49.399585723877,
+                "name": "AN",
+                "id": 17552001,
+                "fullname": "Jihlava - AN",
+                "longitude": 15.5801553726196,
+                "partnerStation": false
+            }],
+            "id": 17554000,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Jirkov",
+            "stations": [{
+                "stationImportants": 1,
+                "aliases": ["aut.nádr.", "Jirkov", "伊尔科夫", "Йирков", "Їрков"],
+                "latitude": 50.4984245300293,
+                "name": "aut.nádr.",
+                "id": 1303394003,
+                "fullname": "Jirkov - aut.nádr.",
+                "longitude": 13.450334548950195,
+                "partnerStation": false
+            }],
+            "id": 1303398000,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Karlovy Vary",
+            "stations": [{
+                "stationImportants": 1,
+                "aliases": ["Karlsbad", "Terminál", "Karlovy Vary", "卡罗维发利", "Карловы Вары", "Карлові Вари", "Karlowe Wary"],
+                "latitude": 50.2299880981445,
+                "name": "Terminál",
+                "id": 17902024,
+                "fullname": "Karlovy Vary - Terminál",
+                "longitude": 12.8639812469482,
+                "partnerStation": false
+            }, {
+                "stationImportants": 0,
+                "aliases": ["Karlsbad", "Tržnice", "Karlovy Vary", "卡罗维发利", "Карловы Вары", "Карлові Вари", "Karlowe Wary"],
+                "latitude": 50.2308921813965,
+                "name": "Tržnice",
+                "id": 17902023,
+                "fullname": "Karlovy Vary - Tržnice",
+                "longitude": 12.8701505661011,
+                "partnerStation": false
+            }],
+            "id": 17904010,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Kroměříž",
+            "stations": [{
+                "stationImportants": 1,
+                "aliases": ["AN", "Kroměříž", "克罗梅日什", "Кромержиж", "Kromierzyż"],
+                "latitude": 49.3017044067383,
+                "name": "AN",
+                "id": 17902002,
+                "fullname": "Kroměříž - AN",
+                "longitude": 17.4022369384766,
+                "partnerStation": false
+            }, {
+                "stationImportants": 0,
+                "aliases": ["Milíčovo nám.", "Kroměříž", "克罗梅日什", "Кромержиж", "Kromierzyż"],
+                "latitude": 49.296634674072266,
+                "name": "Milíčovo nám.",
+                "id": 3873739001,
+                "fullname": "Kroměříž - Milíčovo nám.",
+                "longitude": 17.390605926513672,
+                "partnerStation": false
+            }],
+            "id": 17904000,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Letovice",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["nádr.", "Letovice", "Летовице", "Летовіце"],
+                "latitude": 49.556129455566406,
+                "name": "nádr.",
+                "id": 3741302002,
+                "fullname": "Letovice - nádr.",
+                "longitude": 16.570981979370117,
+                "partnerStation": false
+            }],
+            "id": 3741270002,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Liberec",
+            "stations": [{
+                "stationImportants": 1,
+                "aliases": ["Reichenberg", "Fügnerova-Blažkova", "Liberec", "利贝雷茨", "Либерец", "Ліберець"],
+                "latitude": 50.7647972106934,
+                "name": "Fügnerova-Blažkova",
+                "id": 214017000,
+                "fullname": "Liberec - Fügnerova-Blažkova",
+                "longitude": 15.0569610595703,
+                "partnerStation": false
+            }, {
+                "stationImportants": 0,
+                "aliases": ["Reichenberg", "AN", "Liberec", "利贝雷茨", "Либерец", "Ліберець"],
+                "latitude": 50.7636604309082,
+                "name": "AN",
+                "id": 17902006,
+                "fullname": "Liberec - AN",
+                "longitude": 15.0466079711914,
+                "partnerStation": false
+            }],
+            "id": 17904003,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Louny",
+            "stations": [{
+                "stationImportants": 1,
+                "aliases": ["aut.nádr.", "Louny", "Лоуны", "Лоуни"],
+                "latitude": 50.354835510253906,
+                "name": "aut.nádr.",
+                "id": 1084372002,
+                "fullname": "Louny - aut.nádr.",
+                "longitude": 13.804513931274414,
+                "partnerStation": false
+            }],
+            "id": 1084369001,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Lubenec",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["Karlovarská", "Lubenec", "Любенец", "Лубенец"],
+                "latitude": 50.13205337524414,
+                "name": "Karlovarská",
+                "id": 2922300000,
+                "fullname": "Lubenec - Karlovarská",
+                "longitude": 13.312450408935547,
+                "partnerStation": false
+            }],
+            "id": 2922298000,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Moravské Budějovice",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["aut.nádr.", "Moravské Budějovice", "Моравске Будейовице", "Moравске Будейовіце"],
+                "latitude": 49.0565071105957,
+                "name": "aut.nádr.",
+                "id": 2624931002,
+                "fullname": "Moravské Budějovice - aut.nádr.",
+                "longitude": 15.808516502380371,
+                "partnerStation": false
+            }],
+            "id": 2624922002,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Most",
+            "stations": [{
+                "stationImportants": 1,
+                "aliases": ["1.nám.", "Most", "Мост"],
+                "latitude": 50.50110626220703,
+                "name": "1.nám.",
+                "id": 1084372001,
+                "fullname": "Most - 1.nám.",
+                "longitude": 13.638720512390137,
+                "partnerStation": false
+            }, {
+                "stationImportants": 0,
+                "aliases": ["Rudolická MUS a.s.", "Most", "Мост"],
+                "latitude": 50.508358001708984,
+                "name": "Rudolická MUS a.s.",
+                "id": 1084372000,
+                "fullname": "Most - Rudolická MUS a.s.",
+                "longitude": 13.658834457397461,
+                "partnerStation": false
+            }],
+            "id": 1084369000,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Návsí (Jablunkov)",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["nádr.", "Návsí (Jablunkov)", "Навси (Яблунков)", "Навсі  (Яблунков)"],
+                "latitude": 49.59014892578125,
+                "name": "nádr.",
+                "id": 1558071000,
+                "fullname": "Návsí (Jablunkov) - nádr.",
+                "longitude": 18.754833221435547,
+                "partnerStation": false
+            }],
+            "id": 1558067000,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Nový Jičín",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["AN", "Nový Jičín", "Новый Йичин", "Новий Їчин", "Nowy Jiczyn"],
+                "latitude": 49.5970001220703,
+                "name": "AN",
+                "id": 10204034,
+                "fullname": "Nový Jičín - AN",
+                "longitude": 18.0100364685059,
+                "partnerStation": false
+            }],
+            "id": 10202032,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Olomouc",
+            "stations": [{
+                "stationImportants": 1,
+                "aliases": ["Olmik", "Holomoc", "hl.n.", "Olomouc", "奥洛穆茨", "Оломоуц", "Ołomuniec"],
+                "latitude": 49.592491149902344,
+                "name": "hl.n.",
+                "id": 372825005,
+                "fullname": "Olomouc - hl.n.",
+                "longitude": 17.27779197692871,
+                "partnerStation": false
+            }, {
+                "stationImportants": 0,
+                "aliases": ["Olmik", "Holomoc", "Fakultní nem.", "Olomouc", "奥洛穆茨", "Оломоуц", "Ołomuniec"],
+                "latitude": 49.58091735839844,
+                "name": "Fakultní nem.",
+                "id": 4258776003,
+                "fullname": "Olomouc - Fakultní nem.",
+                "longitude": 17.239967346191406,
+                "partnerStation": false
+            }, {
+                "stationImportants": 0,
+                "aliases": ["Olmik", "Holomoc", "Pionýrská", "Olomouc", "奥洛穆茨", "Оломоуц", "Ołomuniec"],
+                "latitude": 49.57744216918945,
+                "name": "Pionýrská",
+                "id": 4258776002,
+                "fullname": "Olomouc - Pionýrská",
+                "longitude": 17.238374710083008,
+                "partnerStation": false
+            }],
+            "id": 10202031,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Opava východ",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["nádr.", "Opava východ", "奥帕瓦东部", "Опава восток", "Опава", "Opawa Wschodnia"],
+                "latitude": 49.93440628051758,
+                "name": "nádr.",
+                "id": 3741302004,
+                "fullname": "Opava východ - nádr.",
+                "longitude": 17.90822410583496,
+                "partnerStation": false
+            }],
+            "id": 3741270000,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Ostrava",
+            "stations": [{
+                "stationImportants": 2,
+                "aliases": ["Svinov", "Ostrava Svinov", "Ova", "Ostrava", "俄斯特拉发", "Острава"],
+                "latitude": 49.8211517333984,
+                "name": "Svinov",
+                "id": 372825007,
+                "fullname": "Ostrava - Svinov",
+                "longitude": 18.2094955444336,
+                "partnerStation": false
+            }, {
+                "stationImportants": 1,
+                "aliases": ["Ova", "ÚAN", "Ostrava", "俄斯特拉发", "Острава"],
+                "latitude": 49.8306617736816,
+                "name": "ÚAN",
+                "id": 10204000,
+                "fullname": "Ostrava - ÚAN",
+                "longitude": 18.2804889678955,
+                "partnerStation": false
+            }, {
+                "stationImportants": 0,
+                "aliases": ["Ostrava nádraží", "Ostrava hlavní nádraží", "Ova", "hl.n.", "Ostrava", "俄斯特拉发", "Острава"],
+                "latitude": 49.8521499633789,
+                "name": "hl.n.",
+                "id": 372825008,
+                "fullname": "Ostrava - hl.n.",
+                "longitude": 18.268461227417,
+                "partnerStation": false
+            }, {
+                "stationImportants": 0,
+                "aliases": ["Ostrava Stotodolní", "Stodolní", "Ova", "Ostrava", "俄斯特拉发", "Острава"],
+                "latitude": 49.8345489501953,
+                "name": "Stodolní",
+                "id": 372825009,
+                "fullname": "Ostrava - Stodolní",
+                "longitude": 18.2812061309814,
+                "partnerStation": false
+            }],
+            "id": 10202000,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Pardubice",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["hl. nádraží", "Pardubice", "帕尔杜比采", "Пардубице", "Пардубіце"],
+                "latitude": 50.0320587158203,
+                "name": "hl. nádraží",
+                "id": 372825002,
+                "fullname": "Pardubice - hl. nádraží",
+                "longitude": 15.7572269439697,
+                "partnerStation": false
+            }],
+            "id": 372842000,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Pavlice",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["na kopci", "Pavlice", "Павлице", "Павліце"],
+                "latitude": 48.97267150878906,
+                "name": "na kopci",
+                "id": 2624931003,
+                "fullname": "Pavlice - na kopci",
+                "longitude": 15.896021842956543,
+                "partnerStation": false
+            }],
+            "id": 2624922003,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Písek",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["AN, st. 12", "Písek", "Писек", "Пісек"],
+                "latitude": 49.2994995117188,
+                "name": "AN, st. 12",
+                "id": 17902019,
+                "fullname": "Písek - AN, st. 12",
+                "longitude": 14.1461200714111,
+                "partnerStation": false
+            }],
+            "id": 17904007,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Plzeň",
+            "stations": [{
+                "stationImportants": 2,
+                "aliases": ["Pilsen", "Plzeň", "CAN", "比尔森", "Пльзень", "Плзень"],
+                "latitude": 49.7464828491211,
+                "name": "CAN",
+                "id": 10204004,
+                "fullname": "Plzeň - CAN",
+                "longitude": 13.3627758026123,
+                "partnerStation": false
+            }, {
+                "stationImportants": 1,
+                "aliases": ["Pilsen", "Plzeň", "Divadlo Alfa", "比尔森", "Пльзень", "Плзень"],
+                "latitude": 49.748416900634766,
+                "name": "Divadlo Alfa",
+                "id": 1324904000,
+                "fullname": "Plzeň - Divadlo Alfa",
+                "longitude": 13.404036521911621,
+                "partnerStation": false
+            }],
+            "id": 10202004,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Praha",
+            "stations": [{
+                "stationImportants": 2,
+                "aliases": ["Pha", "Prha", "ÚAN Florenc", "Praha", "Prag", "布拉格", "Prague", "Прага", "Prága", "Praga"],
+                "latitude": 50.0893783569336,
+                "name": "ÚAN Florenc",
+                "id": 10204003,
+                "fullname": "Praha - ÚAN Florenc",
+                "longitude": 14.4407234191895,
+                "partnerStation": false
+            }, {
+                "stationImportants": 1,
+                "aliases": ["Praha hlavní nádraží", "Hauptbahnhof", "Pha", "Prha", "hl.n.", "Praha", "Prag", "布拉格", "Prague", "Прага", "Prága", "Praga"],
+                "latitude": 50.0829200744629,
+                "name": "hl.n.",
+                "id": 372825000,
+                "fullname": "Praha - hl.n.",
+                "longitude": 14.4356060028076,
+                "partnerStation": false
+            }, {
+                "stationImportants": 1,
+                "aliases": ["Pha", "Prha", "Na Knížecí", "Praha", "Prag", "布拉格", "Prague", "Прага", "Prága", "Praga"],
+                "latitude": 50.0684051513672,
+                "name": "Na Knížecí",
+                "id": 17902017,
+                "fullname": "Praha - Na Knížecí",
+                "longitude": 14.4044494628906,
+                "partnerStation": false
+            }, {
+                "stationImportants": 1,
+                "aliases": ["Pha", "Prha", "Wilsonova (zast. u hl. n.)", "Praha", "Prag", "布拉格", "Prague", "Прага", "Prága", "Praga"],
+                "latitude": 50.0834770202637,
+                "name": "Wilsonova (zast. u hl. n.)",
+                "id": 509515001,
+                "fullname": "Praha - Wilsonova (zast. u hl. n.)",
+                "longitude": 14.4352836608887,
+                "partnerStation": false
+            }, {
+                "stationImportants": 1,
+                "aliases": ["Pha", "Prha", "Zličín", "Praha", "Prag", "布拉格", "Prague", "Прага", "Prága", "Praga"],
+                "latitude": 50.0553436279297,
+                "name": "Zličín",
+                "id": 17797001,
+                "fullname": "Praha - Zličín",
+                "longitude": 14.2901601791382,
+                "partnerStation": false
+            }, {
+                "stationImportants": 0,
+                "aliases": ["Pha", "Prha", "Černý Most", "Praha", "Prag", "布拉格", "Prague", "Прага", "Prága", "Praga"],
+                "latitude": 50.1088981628418,
+                "name": "Černý Most",
+                "id": 17902007,
+                "fullname": "Praha - Černý Most",
+                "longitude": 14.5774354934692,
+                "partnerStation": false
+            }, {
+                "stationImportants": 0,
+                "aliases": ["Pha", "Prha", "Hradčanská", "Praha", "Prag", "布拉格", "Prague", "Прага", "Prága", "Praga"],
+                "latitude": 50.0971488952637,
+                "name": "Hradčanská",
+                "id": 17797000,
+                "fullname": "Praha - Hradčanská",
+                "longitude": 14.4031190872192,
+                "partnerStation": false
+            }, {
+                "stationImportants": 0,
+                "aliases": ["Ruzyně", "Terminál 1", "Flughafen", "Pha", "Prha", "Letiště Václava Havla", "Praha", "Prag", "布拉格", "Prague", "Прага", "Prága", "Praga"],
+                "latitude": 50.1075325012207,
+                "name": "Letiště Václava Havla",
+                "id": 17552003,
+                "fullname": "Praha - Letiště Václava Havla",
+                "longitude": 14.2693090438843,
+                "partnerStation": false
+            }],
+            "id": 10202003,
+            "icons": true
+        }, {
+            "partnerCity": false,
+            "name": "Příbor",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["u kostela", "Příbor", "Пршибор", "Пршібор"],
+                "latitude": 49.64086151123047,
+                "name": "u kostela",
+                "id": 423398001,
+                "fullname": "Příbor - u kostela",
+                "longitude": 18.140626907348633,
+                "partnerStation": false
+            }, {
+                "stationImportants": 0,
+                "aliases": ["u pošty", "Příbor", "Пршибор", "Пршібор"],
+                "latitude": 49.640380859375,
+                "name": "u pošty",
+                "id": 423398000,
+                "fullname": "Příbor - u pošty",
+                "longitude": 18.14073371887207,
+                "partnerStation": false
+            }],
+            "id": 423394000,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Skalice nad Svitavou",
+            "stations": [{
+                "stationImportants": 1,
+                "aliases": ["nádr.", "Skalice nad Svitavou", "Скалице-над-Свитавой", "Скаліце над Світавоу"],
+                "latitude": 49.479923248291016,
+                "name": "nádr.",
+                "id": 4406938000,
+                "fullname": "Skalice nad Svitavou - nádr.",
+                "longitude": 16.609704971313477,
+                "partnerStation": false
+            }],
+            "id": 4406925000,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Sokolov",
+            "stations": [{
+                "stationImportants": 2,
+                "aliases": ["Terminál", "Sokolov", "索科洛夫", "Соколов"],
+                "latitude": 50.18552017211914,
+                "name": "Terminál",
+                "id": 721181001,
+                "fullname": "Sokolov - Terminál",
+                "longitude": 12.642721176147461,
+                "partnerStation": false
+            }, {
+                "stationImportants": 1,
+                "aliases": ["Těšovice", "Sokolov", "索科洛夫", "Соколов"],
+                "latitude": 50.177303314209,
+                "name": "Těšovice",
+                "id": 721181000,
+                "fullname": "Sokolov - Těšovice",
+                "longitude": 12.669075012207,
+                "partnerStation": false
+            }],
+            "id": 721174000,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Staré Město",
+            "stations": [{
+                "stationImportants": 1,
+                "aliases": ["Lidový dům", "Staré Město", "旧城区", "Старе Место", "Старе Мєсто"],
+                "latitude": 49.07611083984375,
+                "name": "Lidový dům",
+                "id": 1014087000,
+                "fullname": "Staré Město - Lidový dům",
+                "longitude": 17.444602966308594,
+                "partnerStation": false
+            }],
+            "id": 1013926000,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Svitavy",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["nádr.", "Svitavy", "斯维塔维", "Свитавы", "Світави"],
+                "latitude": 49.75924301147461,
+                "name": "nádr.",
+                "id": 3741302003,
+                "fullname": "Svitavy - nádr.",
+                "longitude": 16.47951889038086,
+                "partnerStation": false
+            }],
+            "id": 3741270001,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Třinec centrum",
+            "stations": [{
+                "stationImportants": 1,
+                "aliases": ["nádr.", "Třinec centrum", "Třinec中心", "Centre de Třinec", "Тршинец центр", "Тршінец центр", "Třinec központ", "Trzyniec Centrum"],
+                "latitude": 49.671180725097656,
+                "name": "nádr.",
+                "id": 1313142001,
+                "fullname": "Třinec centrum - nádr.",
+                "longitude": 18.680452346801758,
+                "partnerStation": false
+            }],
+            "id": 508808001,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Uherské Hradiště",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["AN", "Uherské Hradiště", "Угерске Градиште", "Угерске Градіште"],
+                "latitude": 49.07008743286133,
+                "name": "AN",
+                "id": 17902003,
+                "fullname": "Uherské Hradiště - AN",
+                "longitude": 17.465242385864258,
+                "partnerStation": false
+            }],
+            "id": 17904002,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Ústí n. Orlicí",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["nádraží", "Ústí n. Orlicí", "Усти-над-Орлици", "Усті-над-Орлиці"],
+                "latitude": 49.971435546875,
+                "name": "nádraží",
+                "id": 372825003,
+                "fullname": "Ústí n. Orlicí - nádraží",
+                "longitude": 16.377946853637695,
+                "partnerStation": false
+            }],
+            "id": 372842001,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Vranovská Ves",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["u lesa", "Vranovská Ves", "Врановска Вес"],
+                "latitude": 48.948997497558594,
+                "name": "u lesa",
+                "id": 2624931004,
+                "fullname": "Vranovská Ves - u lesa",
+                "longitude": 15.920438766479492,
+                "partnerStation": false
+            }],
+            "id": 2624922004,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Zábřeh na Moravě",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["nádr.", "Zábřeh na Moravě", "在摩拉维亚的Zábřeh", "Забржех-на-Мораве", "Забржег на Мораві"],
+                "latitude": 49.8724021911621,
+                "name": "nádr.",
+                "id": 372825004,
+                "fullname": "Zábřeh na Moravě - nádr.",
+                "longitude": 16.8871879577637,
+                "partnerStation": false
+            }],
+            "id": 372842002,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Zlín",
+            "stations": [{
+                "stationImportants": 2,
+                "aliases": ["AN", "Zlín", "兹林", "Злин", "Злін"],
+                "latitude": 49.2257690429688,
+                "name": "AN",
+                "id": 17655001,
+                "fullname": "Zlín - AN",
+                "longitude": 17.6611766815186,
+                "partnerStation": false
+            }, {
+                "stationImportants": 1,
+                "aliases": ["Malenovice, křiž.", "Zlín", "兹林", "Злин", "Злін"],
+                "latitude": 49.209495544433594,
+                "name": "Malenovice, křiž.",
+                "id": 391556000,
+                "fullname": "Zlín - Malenovice, křiž.",
+                "longitude": 17.59575653076172,
+                "partnerStation": false
+            }],
+            "id": 17653000,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Znojmo",
+            "stations": [{
+                "stationImportants": 1,
+                "aliases": ["aut.nádr.", "Znojmo", "Znaim", "兹林", "Злин", "Зноймо"],
+                "latitude": 48.8515625,
+                "name": "aut.nádr.",
+                "id": 1742370001,
+                "fullname": "Znojmo - aut.nádr.",
+                "longitude": 16.05607795715332,
+                "partnerStation": false
+            }, {
+                "stationImportants": 0,
+                "aliases": ["Pražská sídl.", "Znojmo", "Znaim", "兹林", "Злин", "Зноймо"],
+                "latitude": 48.86687088012695,
+                "name": "Pražská sídl.",
+                "id": 2624931005,
+                "fullname": "Znojmo - Pražská sídl.",
+                "longitude": 16.035648345947266,
+                "partnerStation": false
+            }],
+            "id": 1742368001,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Želetava",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["Želetava", "Желетава"],
+                "latitude": 49.14225769042969,
+                "name": "Želetava",
+                "id": 2624931001,
+                "fullname": "Želetava - Želetava",
+                "longitude": 15.672813415527344,
+                "partnerStation": false
+            }],
+            "id": 2624922001,
+            "icons": false
+        }]
+    }, {
+        "country": "Francúzsko",
+        "code": "FR",
+        "cities": [{
+            "partnerCity": false,
+            "name": "Lyon",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["Lyons", "Liyon", "de Perrache - Galerie A", "Lyon", "里昂", "Лион", "Ліон"],
+                "latitude": 45.74964141845703,
+                "name": "de Perrache - Galerie A",
+                "id": 2649377002,
+                "fullname": "Lyon - de Perrache - Galerie A",
+                "longitude": 4.826708793640137,
+                "partnerStation": false
+            }],
+            "id": 2651667000,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Metz",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["Mety", "Méty", "gare rout.", "Metz", "梅斯", "Метц", "Мец"],
+                "latitude": 49.11027908325195,
+                "name": "gare rout.",
+                "id": 10204104,
+                "fullname": "Metz - gare rout.",
+                "longitude": 6.183559417724609,
+                "partnerStation": false
+            }],
+            "id": 10202098,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Paríž",
+            "stations": [{
+                "stationImportants": 1,
+                "aliases": ["Paříž", "Bercy Seine", "Paris", "巴黎", "Париж", "Párizs", "Paríž", "Paryż"],
+                "latitude": 48.83531951904297,
+                "name": "Bercy Seine",
+                "id": 4201640002,
+                "fullname": "Paríž - Bercy Seine",
+                "longitude": 2.380521774291992,
+                "partnerStation": false
+            }],
+            "id": 10202096,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Remeš",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["Rheims", "Rue du Général Estienne", "Reims", "兰斯", "Реймс", "Remeš"],
+                "latitude": 49.25770950317383,
+                "name": "Rue du Général Estienne",
+                "id": 570819000,
+                "fullname": "Remeš - Rue du Général Estienne",
+                "longitude": 4.025137424468994,
+                "partnerStation": false
+            }],
+            "id": 10202097,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Štrasburg",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["Strossburi", "Place de l'Étoile", "Strasbourg", "Straßburg", "斯特拉斯堡", "Страсбург", "Štrasburk", "Štrasburg"],
+                "latitude": 48.57434844970703,
+                "name": "Place de l'Étoile",
+                "id": 2649377006,
+                "fullname": "Štrasburg - Place de l'Étoile",
+                "longitude": 7.754214286804199,
+                "partnerStation": false
+            }],
+            "id": 1805420001,
+            "icons": false
+        }]
+    }, {
+        "country": "Holandsko",
+        "code": "NL",
+        "cities": [{
+            "partnerCity": false,
+            "name": "Amsterdam",
+            "stations": [{
+                "stationImportants": 1,
+                "aliases": ["Amsterodam", "Amstr", "Sloterdijk", "Amsterdam", "阿姆斯特丹", "Амстердам"],
+                "latitude": 52.38982391357422,
+                "name": "Sloterdijk",
+                "id": 4201640000,
+                "fullname": "Amsterdam - Sloterdijk",
+                "longitude": 4.838342666625977,
+                "partnerStation": false
+            }],
+            "id": 10202030,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Breda",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["Central station, Stationslaan, International bus stop", "Breda", "布雷达", "Бреда"],
+                "latitude": 51.596492767333984,
+                "name": "Central station, Stationslaan, International bus stop",
+                "id": 1739923000,
+                "fullname": "Breda - Central station, Stationslaan, International bus stop",
+                "longitude": 4.778302192687988,
+                "partnerStation": false
+            }],
+            "id": 10202027,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Eindhoven",
+            "stations": [{
+                "stationImportants": 1,
+                "aliases": ["JF Kennedylaan/Limbopad", "Eindhoven", "埃因霍温", "Эйндховен", "Ейндговен"],
+                "latitude": 51.4456901550293,
+                "name": "JF Kennedylaan/Limbopad",
+                "id": 3626276000,
+                "fullname": "Eindhoven - JF Kennedylaan/Limbopad",
+                "longitude": 5.480966091156006,
+                "partnerStation": false
+            }],
+            "id": 10202026,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Rotterdam",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["Conradstraat/Weena", "Rotterdam", "鹿特丹", "Роттердам"],
+                "latitude": 51.92359924316406,
+                "name": "Conradstraat/Weena",
+                "id": 10204030,
+                "fullname": "Rotterdam - Conradstraat/Weena",
+                "longitude": 4.466371536254883,
+                "partnerStation": false
+            }],
+            "id": 10202028,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Utrecht",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["P+R Westraven  (Griffioenlaan 1)", "Utrecht", "乌得勒支", "Утрехт"],
+                "latitude": 52.057186126708984,
+                "name": "P+R Westraven  (Griffioenlaan 1)",
+                "id": 10204031,
+                "fullname": "Utrecht - P+R Westraven  (Griffioenlaan 1)",
+                "longitude": 5.105295181274414,
+                "partnerStation": false
+            }],
+            "id": 10202029,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Venlo",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["Stadion De Koel - Kaldenkerkerweg", "Venlo", "芬洛", "Венло"],
+                "latitude": 51.35197067260742,
+                "name": "Stadion De Koel - Kaldenkerkerweg",
+                "id": 1517945000,
+                "fullname": "Venlo - Stadion De Koel - Kaldenkerkerweg",
+                "longitude": 6.181763172149658,
+                "partnerStation": false
+            }],
+            "id": 10202025,
+            "icons": false
+        }]
+    }, {
+        "country": "Luxembursko",
+        "code": "LU",
+        "cities": [{
+            "partnerCity": false,
+            "name": "Luxemburg",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["Lëtzebuerg", "P+R Bouillon", "Luxembourg", "Luxemburg", "卢森堡", "Люксембург", "Lucemburk"],
+                "latitude": 49.599979400634766,
+                "name": "P+R Bouillon",
+                "id": 10204047,
+                "fullname": "Luxemburg - P+R Bouillon",
+                "longitude": 6.105260372161865,
+                "partnerStation": false
+            }],
+            "id": 10202045,
+            "icons": false
+        }]
+    }, {
+        "country": "Maďarsko",
+        "code": "HU",
+        "cities": [{
+            "partnerCity": false,
+            "name": "Budapešť",
+            "stations": [{
+                "stationImportants": 2,
+                "aliases": ["Kelenföld Vasút u.16., 1115", "Budapest", "布达佩斯", "Будапешт", "Budapešť", "Budapeszt"],
+                "latitude": 47.46596145629883,
+                "name": "Kelenföld Vasút u.16., 1115",
+                "id": 4512144001,
+                "fullname": "Budapešť - Kelenföld Vasút u.16., 1115",
+                "longitude": 19.021913528442383,
+                "partnerStation": false
+            }, {
+                "stationImportants": 0,
+                "aliases": ["Letiště", "Flughafen", "Letisko", "Ferenc Liszt Airport, T2", "Budapest", "布达佩斯", "Будапешт", "Budapešť", "Budapeszt"],
+                "latitude": 47.43276596069336,
+                "name": "Ferenc Liszt Airport, T2",
+                "id": 3472056000,
+                "fullname": "Budapešť - Ferenc Liszt Airport, T2",
+                "longitude": 19.261249542236328,
+                "partnerStation": false
+            }],
+            "id": 10202091,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Györ - výlety",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["Győr", "Ráb", "Raab", "termální lázně Györ - výlet, Rába Quelle Győr", "Györ - trips", "Györ - výlety", "Дьєр"],
+                "latitude": 47.688358306884766,
+                "name": "termální lázně Györ - výlet, Rába Quelle Győr",
+                "id": 4713817001,
+                "fullname": "Györ - výlety - termální lázně Györ - výlet, Rába Quelle Győr",
+                "longitude": 17.62522315979004,
+                "partnerStation": false
+            }],
+            "id": 10202089,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Szeged",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["Segedyn", "Seghedin", "Segedín", "Seghedino", "Viztorony tér", "Szeged", "Szegedin", "塞格德", "Сегед"],
+                "latitude": 46.27042770385742,
+                "name": "Viztorony tér",
+                "id": 3472056004,
+                "fullname": "Szeged - Viztorony tér",
+                "longitude": 20.163972854614258,
+                "partnerStation": false
+            }],
+            "id": 3472047001,
+            "icons": false
+        }]
+    }, {
+        "country": "Nemecko",
+        "code": "DE",
+        "cities": [{
+            "partnerCity": false,
+            "name": "Berlín",
+            "stations": [{
+                "stationImportants": 2,
+                "aliases": ["ZOB am Funkturm", "Berlin", "柏林", "Берлин", "Berlín", "Берлін"],
+                "latitude": 52.5075416564941,
+                "name": "ZOB am Funkturm",
+                "id": 10204076,
+                "fullname": "Berlín - ZOB am Funkturm",
+                "longitude": 13.2798366546631,
+                "partnerStation": false
+            }, {
+                "stationImportants": 1,
+                "aliases": ["Südkreuz Bf", "Berlin", "柏林", "Берлин", "Berlín", "Берлін"],
+                "latitude": 52.476200103759766,
+                "name": "Südkreuz Bf",
+                "id": 2704917000,
+                "fullname": "Berlín - Südkreuz Bf",
+                "longitude": 13.364163398742676,
+                "partnerStation": false
+            }, {
+                "stationImportants": 0,
+                "aliases": ["Letisko", "letiště Schönefeld, P Bus - Terminal B", "Berlin", "柏林", "Берлин", "Berlín", "Берлін"],
+                "latitude": 52.389278411865234,
+                "name": "letiště Schönefeld, P Bus - Terminal B",
+                "id": 185175001,
+                "fullname": "Berlín - letiště Schönefeld, P Bus - Terminal B",
+                "longitude": 13.519866943359375,
+                "partnerStation": false
+            }],
+            "id": 10202072,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Bonn",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["Marie-Kahle-Allee", "Bonn", "波恩", "Бонн"],
+                "latitude": 50.71280288696289,
+                "name": "Marie-Kahle-Allee",
+                "id": 2738555002,
+                "fullname": "Bonn - Marie-Kahle-Allee",
+                "longitude": 7.1203083992004395,
+                "partnerStation": false
+            }],
+            "id": 10202103,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Drážďany",
+            "stations": [{
+                "stationImportants": 1,
+                "aliases": ["Hbf., Bayrische Str.", "Dresden", "德累斯顿", "Dresde", "Дрезден", "Drážďany"],
+                "latitude": 51.03924560546875,
+                "name": "Hbf., Bayrische Str.",
+                "id": 10204075,
+                "fullname": "Drážďany - Hbf., Bayrische Str.",
+                "longitude": 13.732307434082031,
+                "partnerStation": false
+            }, {
+                "stationImportants": 0,
+                "aliases": ["Letisko", "Letiště", "Dresden", "德累斯顿", "Dresde", "Дрезден", "Drážďany"],
+                "latitude": 51.12360382080078,
+                "name": "Letiště",
+                "id": 838605001,
+                "fullname": "Drážďany - Letiště",
+                "longitude": 13.764737129211426,
+                "partnerStation": false
+            }],
+            "id": 10202071,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Düsseldorf",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["Hbf., Worringer Str.", "Düsseldorf", "杜塞尔多夫", "Дюссельдорф"],
+                "latitude": 51.222625732421875,
+                "name": "Hbf., Worringer Str.",
+                "id": 10204110,
+                "fullname": "Düsseldorf - Hbf., Worringer Str.",
+                "longitude": 6.795172691345215,
+                "partnerStation": false
+            }],
+            "id": 10202104,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Frankfurt nad Mohanom",
+            "stations": [{
+                "stationImportants": 1,
+                "aliases": ["Mannheimer Str. Area B", "Frankfurt am Main", "法兰克福", "Francfort-sur-le-Main", "Франкфурт-на-Майне", "Frankfurt nad Mohanem", "Франкфурт", "Frankfurt nad Mohanom"],
+                "latitude": 50.105735778808594,
+                "name": "Mannheimer Str. Area B",
+                "id": 4448709004,
+                "fullname": "Frankfurt nad Mohanom - Mannheimer Str. Area B",
+                "longitude": 8.663756370544434,
+                "partnerStation": false
+            }, {
+                "stationImportants": 0,
+                "aliases": ["Flughafen", "Letisko", "Flg.,Terminal 1, Busparkplatz P36", "Frankfurt am Main", "法兰克福", "Francfort-sur-le-Main", "Франкфурт-на-Майне", "Frankfurt nad Mohanem", "Франкфурт", "Frankfurt nad Mohanom"],
+                "latitude": 50.05276870727539,
+                "name": "Flg.,Terminal 1, Busparkplatz P36",
+                "id": 10204025,
+                "fullname": "Frankfurt nad Mohanom - Flg.,Terminal 1, Busparkplatz P36",
+                "longitude": 8.577479362487793,
+                "partnerStation": false
+            }],
+            "id": 10202023,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Freiburg",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["Busbahnhof", "Freiburg", "弗赖堡", "Fribourg", "Фрайбург"],
+                "latitude": 47.996036529541016,
+                "name": "Busbahnhof",
+                "id": 3343974000,
+                "fullname": "Freiburg - Busbahnhof",
+                "longitude": 7.840693473815918,
+                "partnerStation": false
+            }],
+            "id": 10202043,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Heidelberg",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["Hbf., Alte Eppelheimer Straße", "Heidelberg", "Гейдельберг"],
+                "latitude": 49.40604019165039,
+                "name": "Hbf., Alte Eppelheimer Straße",
+                "id": 1805433000,
+                "fullname": "Heidelberg - Hbf., Alte Eppelheimer Straße",
+                "longitude": 8.67313289642334,
+                "partnerStation": false
+            }],
+            "id": 1805420000,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Karlsruhe",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["Hbf. - Süd, am Hintereingang", "Karlsruhe", "卡尔斯鲁厄", "Карлсруэ", "Карлсруе"],
+                "latitude": 48.991539001464844,
+                "name": "Hbf. - Süd, am Hintereingang",
+                "id": 10204011,
+                "fullname": "Karlsruhe - Hbf. - Süd, am Hintereingang",
+                "longitude": 8.40085220336914,
+                "partnerStation": false
+            }],
+            "id": 10202010,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Kolín n. R./Bonn letisko",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["Letiště", "Airport,", "Letisko", "Terminal 2", "Köln/Bonn Flughafen", "科隆", "Кёльн/Бонн аэропорт", "Cologne/Bonn Airport", "Kolín n. R./Bonn letiště", "Kельн / Бонн Флукгафен", "Kolín n. R./Bonn letisko"],
+                "latitude": 50.88117218017578,
+                "name": "Terminal 2",
+                "id": 2415552000,
+                "fullname": "Kolín n. R./Bonn letisko - Terminal 2",
+                "longitude": 7.11769962310791,
+                "partnerStation": false
+            }],
+            "id": 241620000,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Lipsko",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["HBF (autobusový terminál)", "Leipzig", "莱比锡", "Лейпциг", "Lipsko"],
+                "latitude": 51.34526824951172,
+                "name": "HBF (autobusový terminál)",
+                "id": 3963207000,
+                "fullname": "Lipsko - HBF (autobusový terminál)",
+                "longitude": 12.384448051452637,
+                "partnerStation": false
+            }],
+            "id": 2735485000,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Mannheim",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["ZOB Heinrich von  Stephan Str. 6", "Mannheim", "曼海姆", "Мангейм", "Мангайм"],
+                "latitude": 49.47808074951172,
+                "name": "ZOB Heinrich von  Stephan Str. 6",
+                "id": 10204100,
+                "fullname": "Mannheim - ZOB Heinrich von  Stephan Str. 6",
+                "longitude": 8.473012924194336,
+                "partnerStation": false
+            }],
+            "id": 10202011,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Mníchov",
+            "stations": [{
+                "stationImportants": 1,
+                "aliases": ["ZOB (Hackerbrücke)", "München", "慕尼黑", "Munich", "Мюнхен", "Mnichov", "Mníchov"],
+                "latitude": 48.14253616333008,
+                "name": "ZOB (Hackerbrücke)",
+                "id": 1603795000,
+                "fullname": "Mníchov - ZOB (Hackerbrücke)",
+                "longitude": 11.549894332885742,
+                "partnerStation": false
+            }, {
+                "stationImportants": 0,
+                "aliases": ["Letisko", "Airport", "Flg. Flughafen FJS, Terminal 2", "München", "慕尼黑", "Munich", "Мюнхен", "Mnichov", "Mníchov"],
+                "latitude": 48.35591506958008,
+                "name": "Flg. Flughafen FJS, Terminal 2",
+                "id": 10204006,
+                "fullname": "Mníchov - Flg. Flughafen FJS, Terminal 2",
+                "longitude": 11.790207862854004,
+                "partnerStation": false
+            }],
+            "id": 10202006,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Norimberg",
+            "stations": [{
+                "stationImportants": 1,
+                "aliases": ["ZOB, Bahnhofstrasse - Will. - Br. Platz", "Nürnberg", "纽伦堡", "Nuremberg", "Нюрнберг", "Norimberk", "Norimberg"],
+                "latitude": 49.4475936889648,
+                "name": "ZOB, Bahnhofstrasse - Will. - Br. Platz",
+                "id": 10204022,
+                "fullname": "Norimberg - ZOB, Bahnhofstrasse - Will. - Br. Platz",
+                "longitude": 11.0853443145752,
+                "partnerStation": false
+            }],
+            "id": 10202021,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Regensburg",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["Ratisbonne", "Řezno", "Regensburg", "Ratisbona", "Hbf., vor dem Haupteingang", "雷根斯堡", "Регенсбург"],
+                "latitude": 49.01263427734375,
+                "name": "Hbf., vor dem Haupteingang",
+                "id": 10204005,
+                "fullname": "Regensburg - Hbf., vor dem Haupteingang",
+                "longitude": 12.098608016967773,
+                "partnerStation": false
+            }],
+            "id": 10202005,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Saarbrücken",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["Sarrebruck", "Fernbusbahnhof Dudweilerstrasse", "Saarbrücken", "萨尔布吕肯", "Саарбрюккен", "Саарбрюкен"],
+                "latitude": 49.24193572998047,
+                "name": "Fernbusbahnhof Dudweilerstrasse",
+                "id": 3314909000,
+                "fullname": "Saarbrücken - Fernbusbahnhof Dudweilerstrasse",
+                "longitude": 7.000194072723389,
+                "partnerStation": false
+            }],
+            "id": 10202016,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Stuttgart",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["Letiště", "Flughafen", "Letisko", "Airport", "Airport Busterminal SAB", "Stuttgart", "斯图加特", "Штутгарт", "Штутґарт"],
+                "latitude": 48.691986083984375,
+                "name": "Airport Busterminal SAB",
+                "id": 2649377007,
+                "fullname": "Stuttgart - Airport Busterminal SAB",
+                "longitude": 9.196793556213379,
+                "partnerStation": false
+            }],
+            "id": 10202009,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Würzburg",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["Bismarckstrasse", "Würzburg", "维尔茨堡", "Wurtzbourg", "Вюрцбург"],
+                "latitude": 49.801342010498,
+                "name": "Bismarckstrasse",
+                "id": 10204023,
+                "fullname": "Würzburg - Bismarckstrasse",
+                "longitude": 9.93332481384277,
+                "partnerStation": false
+            }],
+            "id": 10202022,
+            "icons": false
+        }]
+    }, {
+        "country": "Poľsko",
+        "code": "PL",
+        "cities": [{
+            "partnerCity": false,
+            "name": "Katowice",
+            "stations": [{
+                "stationImportants": 1,
+                "aliases": ["Kattowitz", "Katowicy", "dw. PKS ul. Piotra Skargi", "Katowice", "Katovice", "Катовіце"],
+                "latitude": 50.26262664794922,
+                "name": "dw. PKS ul. Piotra Skargi",
+                "id": 2147908002,
+                "fullname": "Katowice - dw. PKS ul. Piotra Skargi",
+                "longitude": 19.017248153686523,
+                "partnerStation": false
+            }],
+            "id": 1225791001,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Krakov",
+            "stations": [{
+                "stationImportants": 2,
+                "aliases": ["Cracow", "Krakow", "Reg. Dw. Autob. ul. Bosacka 18", "Kraków", "Krakau", "克拉科夫", "Cracovie", "Краков", "Crakow", "Krakov", "Krakkó"],
+                "latitude": 50.0678825378418,
+                "name": "Reg. Dw. Autob. ul. Bosacka 18",
+                "id": 2147908003,
+                "fullname": "Krakov - Reg. Dw. Autob. ul. Bosacka 18",
+                "longitude": 19.949535369873047,
+                "partnerStation": false
+            }],
+            "id": 1225791000,
+            "icons": false
+        }]
+    }, {
+        "country": "Rakúsko",
+        "code": "AT",
+        "cities": [{
+            "partnerCity": false,
+            "name": "Amstetten",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["Bahnhof", "Amstetten", "阿姆施泰滕", "Амштеттен", "Aмштелен"],
+                "latitude": 48.12184143066406,
+                "name": "Bahnhof",
+                "id": 4111552007,
+                "fullname": "Amstetten - Bahnhof",
+                "longitude": 14.877236366271973,
+                "partnerStation": false
+            }],
+            "id": 4111558001,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Attnang-Puchheim",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["Bahnhof", "Attnang-Puchheim", "阿特南 - 普赫海姆", "Атнанг-Пуххайм"],
+                "latitude": 48.01233673095703,
+                "name": "Bahnhof",
+                "id": 4111552010,
+                "fullname": "Attnang-Puchheim - Bahnhof",
+                "longitude": 13.721160888671875,
+                "partnerStation": false
+            }],
+            "id": 4111558003,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Linz",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["Linz", "Linec", "Hbf", "林茨", "Линц", "Лінц"],
+                "latitude": 48.290496826171875,
+                "name": "Hbf",
+                "id": 4111552008,
+                "fullname": "Linz - Hbf",
+                "longitude": 14.29115104675293,
+                "partnerStation": false
+            }],
+            "id": 888040001,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Salzburg",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["Salzburk", "Salzburg", "Solnohrad", "Hbf", "萨尔茨堡", "Зальцбург", "Salcburk"],
+                "latitude": 47.812774658203125,
+                "name": "Hbf",
+                "id": 4111552011,
+                "fullname": "Salzburg - Hbf",
+                "longitude": 13.045740127563477,
+                "partnerStation": false
+            }],
+            "id": 888040003,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "St. Pölten",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["Sankt Pölten", "St Polten", "Hbf", "St. Pölten", "聖帕爾滕", "Санкт-Пёльтен", "Санкт Пьольтен"],
+                "latitude": 48.20804977416992,
+                "name": "Hbf",
+                "id": 4111552006,
+                "fullname": "St. Pölten - Hbf",
+                "longitude": 15.624780654907227,
+                "partnerStation": false
+            }],
+            "id": 4111558000,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Viedeň",
+            "stations": [{
+                "stationImportants": 1,
+                "aliases": ["Hbf (Südtiroler Platz)", "Wien", "维也纳", "Vienne", "Вена", "Vienna", "Vídeň", "Відень", "Bécs", "Viedeň", "Wiedeń"],
+                "latitude": 48.185298919677734,
+                "name": "Hbf (Südtiroler Platz)",
+                "id": 4218903000,
+                "fullname": "Viedeň - Hbf (Südtiroler Platz)",
+                "longitude": 16.372875213623047,
+                "partnerStation": false
+            }, {
+                "stationImportants": 1,
+                "aliases": ["Vídeň hbf", "Hbf", "Wien", "维也纳", "Vienne", "Вена", "Vienna", "Vídeň", "Відень", "Bécs", "Viedeň", "Wiedeń"],
+                "latitude": 48.18522644042969,
+                "name": "Hbf",
+                "id": 3741302011,
+                "fullname": "Viedeň - Hbf",
+                "longitude": 16.376480102539062,
+                "partnerStation": false
+            }, {
+                "stationImportants": 0,
+                "aliases": ["Letiště", "Flughafen", "Letisko", "Airport", "Letiště Schwechat, před příletovou halou", "Wien", "维也纳", "Vienne", "Вена", "Vienna", "Vídeň", "Відень", "Bécs", "Viedeň", "Wiedeń"],
+                "latitude": 48.11996841430664,
+                "name": "Letisko Schwechat, pred príletovou halou",
+                "id": 10204055,
+                "fullname": "Viedeň - Letisko Schwechat, pred príletovou halou",
+                "longitude": 16.563234329223633,
+                "partnerStation": false
+            }, {
+                "stationImportants": 0,
+                "aliases": ["Vídeň Simmering", "Simmering", "Wien", "维也纳", "Vienne", "Вена", "Vienna", "Vídeň", "Відень", "Bécs", "Viedeň", "Wiedeń"],
+                "latitude": 48.16987228393555,
+                "name": "Simmering",
+                "id": 3741302010,
+                "fullname": "Viedeň - Simmering",
+                "longitude": 16.419330596923828,
+                "partnerStation": false
+            }],
+            "id": 10202052,
+            "icons": true
+        }, {
+            "partnerCity": false,
+            "name": "Wels",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["Hbf", "Wels", "韦尔斯", "Вельс"],
+                "latitude": 48.16582107543945,
+                "name": "Hbf",
+                "id": 4111552009,
+                "fullname": "Wels - Hbf",
+                "longitude": 14.02685546875,
+                "partnerStation": false
+            }],
+            "id": 4111558002,
+            "icons": false
+        }]
+    }, {
+        "country": "Rumunsko",
+        "code": "RO",
+        "cities": [{
+            "partnerCity": false,
+            "name": "Arad",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["autogara Transdara", "Arad", "阿拉德", "Арад"],
+                "latitude": 46.19098663330078,
+                "name": "autogara Transdara",
+                "id": 3472056001,
+                "fullname": "Arad - autogara Transdara",
+                "longitude": 21.31975555419922,
+                "partnerStation": false
+            }],
+            "id": 3472047002,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Nadlak",
+            "stations": [{
+                "stationImportants": 1,
+                "aliases": ["Nagylak", "Nadlac", "Nadlak", "Nădlac", "Str.Nicolae Balcescu / Strada Abatorului", "讷德拉克", "Надлак", "Недлак"],
+                "latitude": 46.16994857788086,
+                "name": "Str.Nicolae Balcescu / Strada Abatorului",
+                "id": 3873739000,
+                "fullname": "Nadlak - Str.Nicolae Balcescu / Strada Abatorului",
+                "longitude": 20.760812759399414,
+                "partnerStation": false
+            }],
+            "id": 3472047004,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Temešvár",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["Temesvár", "Temeschburg", "Temeschwar", "Timișoara", "Timisoara", "autogara AUTOTIM", "Timişoara", "Temeswar", "蒂米什瓦拉", "Тимишоара", "Temešvár", "Тімішоара"],
+                "latitude": 45.74578094482422,
+                "name": "autogara AUTOTIM",
+                "id": 3472056005,
+                "fullname": "Temešvár - autogara AUTOTIM",
+                "longitude": 21.206640243530273,
+                "partnerStation": false
+            }],
+            "id": 3472047000,
+            "icons": false
+        }]
+    }, {
+        "country": "Slovensko",
+        "code": "SK",
+        "cities": [{
+            "partnerCity": false,
+            "name": "Banská Bystrica",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["AS Terminal Vlak Bus Shopping", "Banská Bystrica", "班斯卡-比斯特里察", "Банска Быстрица", "Банська Бистриця", "Besztercebánya", "Bańska Bystrzyca"],
+                "latitude": 48.73493957519531,
+                "name": "AS Terminal Vlak Bus Shopping",
+                "id": 10204065,
+                "fullname": "Banská Bystrica - AS Terminal Vlak Bus Shopping",
+                "longitude": 19.159618377685547,
+                "partnerStation": false
+            }],
+            "id": 10202062,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Bardejov",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["AS", "Bardejov", "巴尔代约夫", "Бардейов", "Бардіїв", "Bártfa", "Bardejów"],
+                "latitude": 49.2975578308105,
+                "name": "AS",
+                "id": 14782002,
+                "fullname": "Bardejov - AS",
+                "longitude": 21.2821140289307,
+                "partnerStation": false
+            }],
+            "id": 14780002,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Bánovce nad Ondavou",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["žel. st.", "Bánovce nad Ondavou", "Бановце-над-Ондавоу", "Бановце над Oндавоу", "Bánóc"],
+                "latitude": 48.67938995361328,
+                "name": "žel. st.",
+                "id": 3741302005,
+                "fullname": "Bánovce nad Ondavou - žel. st.",
+                "longitude": 21.834251403808594,
+                "partnerStation": false
+            }],
+            "id": 3741270006,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Bratislava",
+            "stations": [{
+                "stationImportants": 2,
+                "aliases": ["Blava,Brtislava,Preßburg,Pressburg", "Autobusová stanica Nivy", "Bratislava", "布拉迪斯拉发", "Братислава", "Pozsony", "Bratysława"],
+                "latitude": 48.14561462402344,
+                "name": "Autobusová stanica Nivy",
+                "id": 10204001,
+                "fullname": "Bratislava - Autobusová stanica Nivy",
+                "longitude": 17.12889862060547,
+                "partnerStation": false
+            }, {
+                "stationImportants": 1,
+                "aliases": ["Blava,Brtislava,Preßburg,Pressburg", "hl.st.", "Bratislava", "布拉迪斯拉发", "Братислава", "Pozsony", "Bratysława"],
+                "latitude": 48.15833282470703,
+                "name": "hl.st.",
+                "id": 1841058000,
+                "fullname": "Bratislava - hl.st.",
+                "longitude": 17.105915069580078,
+                "partnerStation": false
+            }, {
+                "stationImportants": 0,
+                "aliases": ["Blava,Brtislava,Preßburg,Pressburg", "Einsteinova", "Bratislava", "布拉迪斯拉发", "Братислава", "Pozsony", "Bratysława"],
+                "latitude": 48.13222885131836,
+                "name": "Einsteinova",
+                "id": 2420693001,
+                "fullname": "Bratislava - Einsteinova",
+                "longitude": 17.098865509033203,
+                "partnerStation": false
+            }, {
+                "stationImportants": 0,
+                "aliases": ["Blava,Brtislava,Preßburg,Pressburg", "Most SNP (Nový most)", "Bratislava", "布拉迪斯拉发", "Братислава", "Pozsony", "Bratysława"],
+                "latitude": 48.140743255615234,
+                "name": "Most SNP (Nový most)",
+                "id": 2420693000,
+                "fullname": "Bratislava - Most SNP (Nový most)",
+                "longitude": 17.104293823242188,
+                "partnerStation": false
+            }],
+            "id": 10202001,
+            "icons": true
+        }, {
+            "partnerCity": false,
+            "name": "Čadca",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["žel.st.", "Čadca", "Чадца", "Чадця", "Csaca"],
+                "latitude": 49.444217681884766,
+                "name": "žel.st.",
+                "id": 508812003,
+                "fullname": "Čadca - žel.st.",
+                "longitude": 18.786792755126953,
+                "partnerStation": false
+            }],
+            "id": 508808002,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Giraltovce",
+            "stations": [{
+                "stationImportants": 1,
+                "aliases": ["AS", "Giraltovce", "吉拉尔托夫采", "Гиралтовице", "Гіралтовце", "Girált (busz)"],
+                "latitude": 49.11674118041992,
+                "name": "AS",
+                "id": 3001595003,
+                "fullname": "Giraltovce - AS",
+                "longitude": 21.52020263671875,
+                "partnerStation": false
+            }],
+            "id": 3001552002,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Humenné",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["žel. st.", "Humenné", "胡门内", "Хуменне", "Гуменне", "Homonna"],
+                "latitude": 48.93031311035156,
+                "name": "žel. st.",
+                "id": 14782004,
+                "fullname": "Humenné - žel. st.",
+                "longitude": 21.900371551513672,
+                "partnerStation": false
+            }],
+            "id": 14780004,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Kežmarok",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["AS", "Kežmarok", "Кежмарок", "Késmárk", "Kieżmark"],
+                "latitude": 49.13803482055664,
+                "name": "AS",
+                "id": 14782000,
+                "fullname": "Kežmarok - AS",
+                "longitude": 20.422950744628906,
+                "partnerStation": false
+            }],
+            "id": 14780000,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Košice",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["košo", "koša", "koše", "AS", "Košice", "科希策", "Кошице", "Kassa", "Koszyce"],
+                "latitude": 48.72075271606445,
+                "name": "AS",
+                "id": 10204035,
+                "fullname": "Košice - AS",
+                "longitude": 21.267847061157227,
+                "partnerStation": false
+            }, {
+                "stationImportants": 0,
+                "aliases": ["košo", "koša", "koše", "žel. st.", "Košice", "科希策", "Кошице", "Kassa", "Koszyce"],
+                "latitude": 48.72236251831055,
+                "name": "žel. st.",
+                "id": 1763018007,
+                "fullname": "Košice - žel. st.",
+                "longitude": 21.267885208129883,
+                "partnerStation": false
+            }],
+            "id": 10202033,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Kysak (pri meste Prešov)",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["žel. st.", "Kysak (u města Prešov)", "Kysak（Prešov附近）", "Кисак (у города Прешов)", "Кисак (поблизу Прешова)", "Sároskőszeg", "Kysak (pri meste Prešov)", "Kysak (pod Preszowem)"],
+                "latitude": 48.85280227661133,
+                "name": "žel. st.",
+                "id": 1763018006,
+                "fullname": "Kysak (pri meste Prešov) - žel. st.",
+                "longitude": 21.223928451538086,
+                "partnerStation": false
+            }],
+            "id": 1762994001,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Liptovský Mikuláš",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["žel. st.", "Liptovský Mikuláš", "利普托夫斯基米庫拉什", "Липтовский Микулаш", "Ліптовський Мікулаш", "Liptószentmiklós"],
+                "latitude": 49.091983795166016,
+                "name": "žel. st.",
+                "id": 1763018002,
+                "fullname": "Liptovský Mikuláš - žel. st.",
+                "longitude": 19.605236053466797,
+                "partnerStation": false
+            }],
+            "id": 10202036,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Margecany",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["žel. st.", "Margecany", "Маргецаны", "Маргецани", "Margitfalva"],
+                "latitude": 48.89469909667969,
+                "name": "žel. st.",
+                "id": 2317717000,
+                "fullname": "Margecany - žel. st.",
+                "longitude": 21.012399673461914,
+                "partnerStation": false
+            }],
+            "id": 2317706000,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Martin",
+            "stations": [{
+                "stationImportants": 1,
+                "aliases": ["AS pri železničnej st.", "Martin", "马丁", "Мартин", "Мартін", "Turócszentmárton"],
+                "latitude": 49.0641021728516,
+                "name": "AS pri železničnej st.",
+                "id": 49586002,
+                "fullname": "Martin - AS pri železničnej st.",
+                "longitude": 18.9157848358154,
+                "partnerStation": false
+            }, {
+                "stationImportants": 0,
+                "aliases": ["ul. Jesenského", "Martin", "马丁", "Мартин", "Мартін", "Turócszentmárton"],
+                "latitude": 49.06008529663086,
+                "name": "ul. Jesenského",
+                "id": 982858002,
+                "fullname": "Martin - ul. Jesenského",
+                "longitude": 18.921255111694336,
+                "partnerStation": false
+            }],
+            "id": 49584001,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Michalovce",
+            "stations": [{
+                "stationImportants": 1,
+                "aliases": ["TESCO", "Michalovce", "米哈洛夫采", "Михаловце", "Міхаловце", "Nagymihály"],
+                "latitude": 48.74424362182617,
+                "name": "TESCO",
+                "id": 4158708000,
+                "fullname": "Michalovce - TESCO",
+                "longitude": 21.91807746887207,
+                "partnerStation": false
+            }, {
+                "stationImportants": 1,
+                "aliases": ["žel. st.", "Michalovce", "米哈洛夫采", "Михаловце", "Міхаловце", "Nagymihály"],
+                "latitude": 48.750797271728516,
+                "name": "žel. st.",
+                "id": 14782003,
+                "fullname": "Michalovce - žel. st.",
+                "longitude": 21.899030685424805,
+                "partnerStation": false
+            }],
+            "id": 14780003,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Nitra",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["AS", "Nitra", "尼特拉", "Нитра", "Нітра", "Nyitra"],
+                "latitude": 48.303627014160156,
+                "name": "AS",
+                "id": 10204044,
+                "fullname": "Nitra - AS",
+                "longitude": 18.08070182800293,
+                "partnerStation": false
+            }],
+            "id": 10202042,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Podolínec",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["AS", "Podolínec", "波多利内茨", "Подолинец", "Подолінец", "Podolin"],
+                "latitude": 49.25923156738281,
+                "name": "AS",
+                "id": 49586005,
+                "fullname": "Podolínec - AS",
+                "longitude": 20.53667640686035,
+                "partnerStation": false
+            }],
+            "id": 49584004,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Poprad",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["AS", "Poprad", "波普拉德", "Попрад", "Poprád"],
+                "latitude": 49.05937194824219,
+                "name": "AS",
+                "id": 10204037,
+                "fullname": "Poprad - AS",
+                "longitude": 20.29303550720215,
+                "partnerStation": false
+            }, {
+                "stationImportants": 0,
+                "aliases": ["Tatry", "Poprad", "波普拉德", "Попрад", "Poprád"],
+                "latitude": 49.05967330932617,
+                "name": "Tatry",
+                "id": 1763018004,
+                "fullname": "Poprad - Tatry",
+                "longitude": 20.29551124572754,
+                "partnerStation": false
+            }],
+            "id": 10202035,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Považská Bystrica",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["Dom Služieb", "Považská Bystrica", "Поважска Быстрица", "Поважська Бистриця", "Vágbeszterce"],
+                "latitude": 49.11665344238281,
+                "name": "Dom Služieb",
+                "id": 10204041,
+                "fullname": "Považská Bystrica - Dom Služieb",
+                "longitude": 18.445331573486328,
+                "partnerStation": false
+            }],
+            "id": 10202039,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Prešov",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["AS", "Prešov", "普雷绍夫", "Прешов", "Eperjes", "Preszów"],
+                "latitude": 48.984344482421875,
+                "name": "AS",
+                "id": 10204036,
+                "fullname": "Prešov - AS",
+                "longitude": 21.250991821289062,
+                "partnerStation": false
+            }],
+            "id": 10202034,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Raslavice",
+            "stations": [{
+                "stationImportants": 1,
+                "aliases": ["Jednota", "Raslavice", "Раславице", "Раславіце", "Raszlavica"],
+                "latitude": 49.14974594116211,
+                "name": "Jednota",
+                "id": 3001595000,
+                "fullname": "Raslavice - Jednota",
+                "longitude": 21.315855026245117,
+                "partnerStation": false
+            }],
+            "id": 3001552000,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Ružomberok",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["žel. st.", "Ružomberok", "鲁容贝罗克", "Ружомберок", "Rózsahegy"],
+                "latitude": 49.083274841308594,
+                "name": "žel. st.",
+                "id": 1763018001,
+                "fullname": "Ružomberok - žel. st.",
+                "longitude": 19.309062957763672,
+                "partnerStation": false
+            }],
+            "id": 10202037,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Sečovce",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["aut.st.", "Sečovce", "塞乔夫采", "Сечовице", "Сечовце", "Gálszécs"],
+                "latitude": 48.700191497802734,
+                "name": "aut.st.",
+                "id": 49821006,
+                "fullname": "Sečovce - aut.st.",
+                "longitude": 21.65488052368164,
+                "partnerStation": false
+            }],
+            "id": 49819006,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Sereď",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["nám.", "Sereď", "Середь"],
+                "latitude": 48.28608703613281,
+                "name": "nám.",
+                "id": 1723750001,
+                "fullname": "Sereď - nám.",
+                "longitude": 17.74057960510254,
+                "partnerStation": false
+            }],
+            "id": 1723745001,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Snina",
+            "stations": [{
+                "stationImportants": 1,
+                "aliases": ["nám.", "Snina", "斯尼纳", "Снина", "Szinna"],
+                "latitude": 48.98666000366211,
+                "name": "nám.",
+                "id": 3001595001,
+                "fullname": "Snina - nám.",
+                "longitude": 22.14979362487793,
+                "partnerStation": false
+            }],
+            "id": 14780005,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Spišská Belá",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["obch.dom", "Spišská Belá", "Спишска Бела", "Списька Бела", "Szepesbéla"],
+                "latitude": 49.18696594238281,
+                "name": "obch.dom",
+                "id": 49586004,
+                "fullname": "Spišská Belá - obch.dom",
+                "longitude": 20.454761505126953,
+                "partnerStation": false
+            }],
+            "id": 49584003,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Spišská Nová Ves",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["žel. st.", "Spišská Nová Ves", "Спишска Нова Вес", "Спішска Нова Вес", "Igló"],
+                "latitude": 48.95018005371094,
+                "name": "žel. st.",
+                "id": 1763018005,
+                "fullname": "Spišská Nová Ves - žel. st.",
+                "longitude": 20.561006546020508,
+                "partnerStation": false
+            }],
+            "id": 1762994000,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Stará Ľubovňa",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["AS", "Stará Ľubovňa", "Стара Любовня", "Ólubló"],
+                "latitude": 49.308135986328125,
+                "name": "AS",
+                "id": 14782001,
+                "fullname": "Stará Ľubovňa - AS",
+                "longitude": 20.68450927734375,
+                "partnerStation": false
+            }],
+            "id": 14780001,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Strážske",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["rázc. Krivošťany", "Strážske", "斯特拉日斯凯", "Стражске"],
+                "latitude": 48.87617492675781,
+                "name": "rázc. Krivošťany",
+                "id": 4832582000,
+                "fullname": "Strážske - rázc. Krivošťany",
+                "longitude": 21.840024948120117,
+                "partnerStation": false
+            }, {
+                "stationImportants": 0,
+                "aliases": ["žel. st.", "Strážske", "斯特拉日斯凯", "Стражске"],
+                "latitude": 48.86749267578125,
+                "name": "žel. st.",
+                "id": 3741302007,
+                "fullname": "Strážske - žel. st.",
+                "longitude": 21.825227737426758,
+                "partnerStation": false
+            }],
+            "id": 3741270007,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Stropkov",
+            "stations": [{
+                "stationImportants": 1,
+                "aliases": ["aut. st.", "Stropkov", "斯特罗普科夫", "Стропков", "Sztropkó"],
+                "latitude": 49.19694519042969,
+                "name": "aut. st.",
+                "id": 3001595005,
+                "fullname": "Stropkov - aut. st.",
+                "longitude": 21.653928756713867,
+                "partnerStation": false
+            }],
+            "id": 3001552004,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Svidník",
+            "stations": [{
+                "stationImportants": 1,
+                "aliases": ["AS", "Svidník", "斯维德尼克", "Свидник", "Felsővízköz"],
+                "latitude": 49.30235290527344,
+                "name": "AS",
+                "id": 3001595004,
+                "fullname": "Svidník - AS",
+                "longitude": 21.5744571685791,
+                "partnerStation": false
+            }],
+            "id": 3001552003,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Štrba",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["žel. st.", "Štrba", "什特尔巴", "Штрба", "Csorba"],
+                "latitude": 49.083229064941406,
+                "name": "žel. st.",
+                "id": 1763018003,
+                "fullname": "Štrba - žel. st.",
+                "longitude": 20.066701889038086,
+                "partnerStation": false
+            }],
+            "id": 49584002,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Trebišov",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["žel. st.", "Trebišov", "特雷比绍夫", "Требишов", "Требішов", "Tőketerebes"],
+                "latitude": 48.632896423339844,
+                "name": "žel. st.",
+                "id": 3741302006,
+                "fullname": "Trebišov - žel. st.",
+                "longitude": 21.712202072143555,
+                "partnerStation": false
+            }],
+            "id": 3741270005,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Trenčín",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["AS", "Trenčín", "特伦钦", "Тренчин", "Trencsén", "Trenczyn"],
+                "latitude": 48.8959274291992,
+                "name": "AS",
+                "id": 10204042,
+                "fullname": "Trenčín - AS",
+                "longitude": 18.0513954162598,
+                "partnerStation": false
+            }],
+            "id": 10202040,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Turčianske Teplice",
+            "stations": [{
+                "stationImportants": 1,
+                "aliases": ["Dom služieb", "Turčianske Teplice", "Турчянське Тепліце", "Stubnyafürdő"],
+                "latitude": 48.8638916015625,
+                "name": "Dom služieb",
+                "id": 3283671000,
+                "fullname": "Turčianske Teplice - Dom služieb",
+                "longitude": 18.861385345458984,
+                "partnerStation": false
+            }],
+            "id": 2370326004,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Vranov nad Topľou",
+            "stations": [{
+                "stationImportants": 1,
+                "aliases": ["AS", "Vranov nad Topľou", "Вранов-над-Топлёу", "Вранов над Топлоу", "Varannó"],
+                "latitude": 48.89116287231445,
+                "name": "AS",
+                "id": 3001595002,
+                "fullname": "Vranov nad Topľou - AS",
+                "longitude": 21.674789428710938,
+                "partnerStation": false
+            }],
+            "id": 3001552001,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Vrútky",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["AS", "Vrútky", "弗鲁特基", "Врутки", "Ruttka"],
+                "latitude": 49.11396789550781,
+                "name": "AS",
+                "id": 49586001,
+                "fullname": "Vrútky - AS",
+                "longitude": 18.92371940612793,
+                "partnerStation": false
+            }, {
+                "stationImportants": 0,
+                "aliases": ["žel. st.", "Vrútky", "弗鲁特基", "Врутки", "Ruttka"],
+                "latitude": 49.114715576171875,
+                "name": "žel. st.",
+                "id": 1763018000,
+                "fullname": "Vrútky - žel. st.",
+                "longitude": 18.924489974975586,
+                "partnerStation": false
+            }],
+            "id": 49584000,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Zvolen",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["AS", "Zvolen", "Зволен", "Zólyom", "Zwoleń"],
+                "latitude": 48.57114028930664,
+                "name": "AS",
+                "id": 10204105,
+                "fullname": "Zvolen - AS",
+                "longitude": 19.11887550354004,
+                "partnerStation": false
+            }],
+            "id": 10202099,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Žilina",
+            "stations": [{
+                "stationImportants": 1,
+                "aliases": ["žel. st.", "Žilina", "日利纳", "Жилина", "ЖІЛІНА", "Zsolna"],
+                "latitude": 49.22667694091797,
+                "name": "žel. st.",
+                "id": 508812004,
+                "fullname": "Žilina - žel. st.",
+                "longitude": 18.74595832824707,
+                "partnerStation": false
+            }, {
+                "stationImportants": 0,
+                "aliases": ["AS", "Žilina", "日利纳", "Жилина", "ЖІЛІНА", "Zsolna"],
+                "latitude": 49.2247543334961,
+                "name": "AS",
+                "id": 10204040,
+                "fullname": "Žilina - AS",
+                "longitude": 18.7475566864014,
+                "partnerStation": false
+            }],
+            "id": 10202038,
+            "icons": false
+        }]
+    }, {
+        "country": "Švajčiarsko",
+        "code": "CH",
+        "cities": [{
+            "partnerCity": false,
+            "name": "Basel",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["Basilea", "Bâle", "Basle", "Meret Oppenheim-Strasse", "Basel", "巴塞尔", "Базель", "Basilej", "Bázel", "Bazylea"],
+                "latitude": 47.546199798583984,
+                "name": "Meret Oppenheim-Strasse",
+                "id": 2649377004,
+                "fullname": "Basel - Meret Oppenheim-Strasse",
+                "longitude": 7.587862491607666,
+                "partnerStation": false
+            }],
+            "id": 10202019,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Bern",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["Berna", "Berne", "Bärn", "Car-Terminal Neufeld", "Bern", "伯尔尼", "Берн", "Berno"],
+                "latitude": 46.9637641906738,
+                "name": "Car-Terminal Neufeld",
+                "id": 196120000,
+                "fullname": "Bern - Car-Terminal Neufeld",
+                "longitude": 7.43353843688965,
+                "partnerStation": false
+            }],
+            "id": 10202020,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Lausanne",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["Lausanne", "Losanna", "park.Velodrome", "洛桑", "Лозанна", "Lozanna"],
+                "latitude": 46.53651809692383,
+                "name": "park.Velodrome",
+                "id": 10204072,
+                "fullname": "Lausanne - park.Velodrome",
+                "longitude": 6.623151779174805,
+                "partnerStation": false
+            }],
+            "id": 10202068,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Lugano",
+            "stations": [{
+                "stationImportants": 1,
+                "aliases": ["Lügann", "Lugano", "Via Giacomo E Filippo Ciani", "卢加诺", "Лугано"],
+                "latitude": 46.02259826660156,
+                "name": "Via Giacomo E Filippo Ciani",
+                "id": 4552147001,
+                "fullname": "Lugano - Via Giacomo E Filippo Ciani",
+                "longitude": 8.963541984558105,
+                "partnerStation": false
+            }],
+            "id": 4552142001,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Luzern",
+            "stations": [{
+                "stationImportants": 1,
+                "aliases": ["Luzern", "Lozärn", "Inseli Park", "卢塞恩", "Lucerne", "Люцерн", "Lucern"],
+                "latitude": 47.04934310913086,
+                "name": "Inseli Park",
+                "id": 4552147002,
+                "fullname": "Luzern - Inseli Park",
+                "longitude": 8.313982963562012,
+                "partnerStation": false
+            }],
+            "id": 4552142000,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "St.Gallen",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["Sankt Gallen", "St Gallen", "Sant Gallen", "Galen", "Saint", "Lagerstrasse", "St.Gallen", "圣加仑", "Saint-Gall", "Санкт-Галлен"],
+                "latitude": 47.422115325927734,
+                "name": "Lagerstrasse",
+                "id": 2019962003,
+                "fullname": "St.Gallen - Lagerstrasse",
+                "longitude": 9.366070747375488,
+                "partnerStation": false
+            }],
+            "id": 10202066,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Zürich",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["Curych", "Zürich", "Carparkplatz Sihlquai", "苏黎世", "Zurich", "Цюрих"],
+                "latitude": 47.380435943603516,
+                "name": "Carparkplatz Sihlquai",
+                "id": 10204071,
+                "fullname": "Zürich - Carparkplatz Sihlquai",
+                "longitude": 8.537683486938477,
+                "partnerStation": false
+            }],
+            "id": 10202067,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Ženeva",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["Genevra", "Gämf", "Gänf", "Genf", "Ginevra", "Genève", "Zeneva", "Gare Routiere, pl. Dorciere", "Geneve", "日内瓦", "Женева", "Ženeva"],
+                "latitude": 46.208518981933594,
+                "name": "Gare Routiere, pl. Dorciere",
+                "id": 10204073,
+                "fullname": "Ženeva - Gare Routiere, pl. Dorciere",
+                "longitude": 6.146946907043457,
+                "partnerStation": false
+            }],
+            "id": 10202069,
+            "icons": false
+        }]
+    }, {
+        "country": "Taliansko",
+        "code": "IT",
+        "cities": [{
+            "partnerCity": false,
+            "name": "Benátky Mestre",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["Venexia", "Benátky", "Venesia", "St. di autobus", "Venezia MESTRE", "Venedig Mestre", "威尼斯MESTRE", "Venise Mestre", "Венеция Местре", "Venice Mestre", "Benátky Mestre", "Венеція", "Velence Mestre"],
+                "latitude": 45.48210906982422,
+                "name": "St. di autobus",
+                "id": 10204084,
+                "fullname": "Benátky Mestre - St. di autobus",
+                "longitude": 12.234225273132324,
+                "partnerStation": false
+            }],
+            "id": 10202080,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Boloňa",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["Bulåggna", "Boloň", "Autostaz.Piazza XX Settembre", "Bologna", "博洛尼亚", "Bologne", "Болонья", "Boloňa", "Bolonia"],
+                "latitude": 44.50399398803711,
+                "name": "Autostaz.Piazza XX Settembre",
+                "id": 237929001,
+                "fullname": "Boloňa - Autostaz.Piazza XX Settembre",
+                "longitude": 11.34717082977295,
+                "partnerStation": false
+            }],
+            "id": 10202084,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Como",
+            "stations": [{
+                "stationImportants": 1,
+                "aliases": ["Novum Comum", "FS Stazione San Giovanni", "Como", "科莫", "Côme", "Комо"],
+                "latitude": 45.809181213378906,
+                "name": "FS Stazione San Giovanni",
+                "id": 4552147000,
+                "fullname": "Como - FS Stazione San Giovanni",
+                "longitude": 9.07307243347168,
+                "partnerStation": false
+            }],
+            "id": 2930911000,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Florencia",
+            "stations": [{
+                "stationImportants": 1,
+                "aliases": ["Florencie", "Parcheggio Villa Costanza", "Firenze", "Florenz", "佛罗伦萨", "Florence", "Флоренция", "Флореція", "Florencia", "Florencja"],
+                "latitude": 43.75523376464844,
+                "name": "Parcheggio Villa Costanza",
+                "id": 4111552012,
+                "fullname": "Florencia - Parcheggio Villa Costanza",
+                "longitude": 11.173523902893066,
+                "partnerStation": false
+            }],
+            "id": 10202085,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Miláno",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["Milàn", "Terminal Bus di Lampugnano", "Milano", "Mailand", "米兰", "Milan", "Милан", "Milán", "Мілан", "Miláno", "Mediolan"],
+                "latitude": 45.48984909057617,
+                "name": "Terminal Bus di Lampugnano",
+                "id": 10204086,
+                "fullname": "Miláno - Terminal Bus di Lampugnano",
+                "longitude": 9.127518653869629,
+                "partnerStation": false
+            }],
+            "id": 10202082,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Padova",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["Pàdoa", "Autostaz. VIALE della Pace", "Padova", "Padua", "帕多瓦", "Padoue", "Падуя", "Padwa"],
+                "latitude": 45.41628646850586,
+                "name": "Autostaz. VIALE della Pace",
+                "id": 10204083,
+                "fullname": "Padova - Autostaz. VIALE della Pace",
+                "longitude": 11.882488250732422,
+                "partnerStation": false
+            }],
+            "id": 10202079,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Rím",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["Řím", "Largo Mazzoni (Autostaz. Tiburtina)", "Roma", "罗马", "Rome", "Рим", "Rím", "Rzym"],
+                "latitude": 41.909461975097656,
+                "name": "Largo Mazzoni (Autostaz. Tiburtina)",
+                "id": 10204090,
+                "fullname": "Rím - Largo Mazzoni (Autostaz. Tiburtina)",
+                "longitude": 12.528158187866211,
+                "partnerStation": false
+            }],
+            "id": 10202086,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Udine",
+            "stations": [{
+                "stationImportants": 0,
+                "aliases": ["Videm", "Udin", "Autostaz. Viale Europa Unita", "Udine", "乌迪内", "Удине", "Удіне"],
+                "latitude": 46.0571670532227,
+                "name": "Autostaz. Viale Europa Unita",
+                "id": 10204082,
+                "fullname": "Udine - Autostaz. Viale Europa Unita",
+                "longitude": 13.2428541183472,
+                "partnerStation": false
+            }],
+            "id": 10202078,
+            "icons": false
+        }]
+    }, {
+        "country": "Ukrajina",
+        "code": "UA",
+        "cities": [{
+            "partnerCity": false,
+            "name": "Mukačevo",
+            "stations": [{
+                "stationImportants": 1,
+                "aliases": ["Munkatsch", "Mukachevo", "Munkács", "Мукачеве", "Мукачів", "autobusové nádraží", "Mukačevo", "穆卡切沃", "Moukatcheve", "Мукачево", "Mukaczewo"],
+                "latitude": 48.43840026855469,
+                "name": "autobusová stanica",
+                "id": 4448709003,
+                "fullname": "Mukačevo - autobusová stanica",
+                "longitude": 22.731342315673828,
+                "partnerStation": false
+            }],
+            "id": 4016707000,
+            "icons": false
+        }, {
+            "partnerCity": false,
+            "name": "Užhorod",
+            "stations": [{
+                "stationImportants": 1,
+                "aliases": ["Ungwar", "Ugohrad", "Užgorod", "Ungvár", "Uschhorod", "Uzhhorod", "autobusové nádraží", "Užhorod", "乌日哥罗德", "Oujhorod", "Ужгород"],
+                "latitude": 48.609554290771484,
+                "name": "autobusová stanica",
+                "id": 4448709002,
+                "fullname": "Užhorod - autobusová stanica",
+                "longitude": 22.298015594482422,
+                "partnerStation": false
+            }],
+            "id": 4016707001,
+            "icons": false
+        }]
+    }],
+    "options": {
+        "messages": {
+            "autocompleteNoObject": "objekt nebol nájdený",
+            "carrier": "Iny dopravca",
+            "headline": "Výber stanice"
+        }
+    }
+}
