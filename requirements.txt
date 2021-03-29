@@ -4,43 +4,86 @@
 #
 #    pip-compile
 #
-appdirs==1.4.3            # via black
-appnope==0.1.0            # via ipython
-attrs==19.1.0             # via black
-backcall==0.1.0           # via ipython
+appdirs==1.4.3
+    # via black
+attrs==19.1.0
+    # via black
+backcall==0.1.0
+    # via ipython
 black==19.3b0
-certifi==2019.6.16        # via requests
-chardet==3.0.4            # via requests
-click==7.0                # via black, flask
-decorator==4.4.0          # via ipython, traitlets
+    # via -r requirements.in
+certifi==2019.6.16
+    # via requests
+chardet==3.0.4
+    # via requests
+click==7.0
+    # via
+    #   black
+    #   flask
+decorator==4.4.0
+    # via
+    #   ipython
+    #   traitlets
 flask-wtf==0.14.2
+    # via -r requirements.in
 flask==1.0.3
-idna==2.8                 # via requests
+    # via
+    #   -r requirements.in
+    #   flask-wtf
+idna==2.8
+    # via requests
 ipdb==0.12
-ipython-genutils==0.2.0   # via traitlets
-ipython==7.6.0            # via ipdb
-itsdangerous==1.1.0       # via flask
-jedi==0.14.0              # via ipython
-jinja2==2.10.1            # via flask
-markupsafe==1.1.1         # via jinja2
-parso==0.5.0              # via jedi
-pexpect==4.7.0            # via ipython
-pickleshare==0.7.5        # via ipython
-prompt-toolkit==2.0.9     # via ipython
+    # via -r requirements.in
+ipython-genutils==0.2.0
+    # via traitlets
+ipython==7.6.0
+    # via ipdb
+itsdangerous==1.1.0
+    # via flask
+jedi==0.14.0
+    # via ipython
+jinja2==2.10.1
+    # via flask
+markupsafe==1.1.1
+    # via jinja2
+parso==0.5.0
+    # via jedi
+pexpect==4.7.0
+    # via ipython
+pickleshare==0.7.5
+    # via ipython
+prompt-toolkit==2.0.9
+    # via ipython
 psycopg2-binary==2.8.3
-ptyprocess==0.6.0         # via pexpect
-pygments==2.4.2           # via ipython
+    # via -r requirements.in
+ptyprocess==0.6.0
+    # via pexpect
+pygments==2.7.4
+    # via ipython
 python-slugify==3.0.2
+    # via -r requirements.in
 redis==3.2.1
+    # via -r requirements.in
 requests==2.22.0
-six==1.12.0               # via prompt-toolkit, traitlets
-text-unidecode==1.2       # via python-slugify
-toml==0.10.0              # via black
-traitlets==4.3.2          # via ipython
-urllib3==1.25.3           # via requests
-wcwidth==0.1.7            # via prompt-toolkit
-werkzeug==0.15.4          # via flask
-wtforms==2.2.1            # via flask-wtf
+    # via -r requirements.in
+six==1.12.0
+    # via
+    #   prompt-toolkit
+    #   traitlets
+text-unidecode==1.2
+    # via python-slugify
+toml==0.10.0
+    # via black
+traitlets==4.3.2
+    # via ipython
+urllib3==1.25.3
+    # via requests
+wcwidth==0.1.7
+    # via prompt-toolkit
+werkzeug==0.15.4
+    # via flask
+wtforms==2.2.1
+    # via flask-wtf
 
 # The following packages are considered to be unsafe in a requirements file:
-# setuptools==41.0.1        # via ipdb, ipython
+# setuptools
